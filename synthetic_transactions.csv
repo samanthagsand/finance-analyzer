@@ -1,0 +1,2001 @@
+Date,Description,Amount,Transaction Type,Category,Account Name
+01/02/2018,Peet's Coffee,172.3,debit,Coffee Shops,Savings
+01/04/2018,AMC Theaters,54.23,debit,Entertainment,Platinum Card
+01/06/2018,Home Depot,154.01,debit,Home Improvement,Platinum Card
+01/08/2018,Subway,65.55,debit,Fast Food,Savings
+01/11/2018,McDonald's,59.79,debit,Fast Food,Checking
+01/11/2018,AMC Theaters,42.63,debit,Entertainment,Savings
+01/14/2018,Whole Foods,41.15,debit,Groceries,Checking
+01/15/2018,Electric Company,81.08,debit,Utilities,Silver Card
+01/17/2018,Trader Joe's,75.26,debit,Groceries,Savings
+01/18/2018,Amazon,174.21,debit,Shopping,Silver Card
+01/20/2018,Electric Company,172.59,debit,Utilities,Checking
+01/20/2018,Electric Company,170.91,debit,Utilities,Platinum Card
+01/22/2018,Trader Joe's,51.72,debit,Groceries,Checking
+01/25/2018,Chipotle,29.68,debit,Fast Food,Savings
+01/28/2018,AT&T Internet,133.37,debit,Internet,Platinum Card
+01/28/2018,Amazon Video,197.63,debit,Movies & DVDs,Silver Card
+01/28/2018,Italian Bistro,71.1,debit,Restaurants,Savings
+01/29/2018,McDonald's,21.54,debit,Fast Food,Checking
+02/01/2018,Chevron,45.84,debit,Gas & Fuel,Savings
+02/04/2018,Chipotle,58.93,debit,Fast Food,Savings
+02/07/2018,Trader Joe's,38.61,debit,Groceries,Checking
+02/07/2018,Trader Joe's,39.7,debit,Groceries,Checking
+02/07/2018,BP,24.44,debit,Gas & Fuel,Checking
+02/07/2018,Home Depot,119.68,debit,Home Improvement,Savings
+02/10/2018,Amazon Video,37.23,debit,Movies & DVDs,Savings
+02/12/2018,Whole Foods,12.49,debit,Groceries,Savings
+02/15/2018,Home Depot,154.81,debit,Home Improvement,Silver Card
+02/15/2018,Peet's Coffee,127.81,debit,Coffee Shops,Checking
+02/16/2018,Electric Company,75.83,debit,Utilities,Platinum Card
+02/16/2018,Spotify,47.27,debit,Music,Savings
+02/16/2018,Trader Joe's,99.68,debit,Groceries,Checking
+02/17/2018,Netflix,29.28,debit,Entertainment,Silver Card
+02/20/2018,Verizon,158.97,debit,Mobile Phone,Silver Card
+02/20/2018,Barbershop,106.31,debit,Haircut,Silver Card
+02/20/2018,Amazon,28.87,debit,Shopping,Silver Card
+02/20/2018,Shell,36.48,debit,Gas & Fuel,Platinum Card
+02/23/2018,Italian Bistro,72.03,debit,Restaurants,Silver Card
+02/26/2018,State Farm,86.55,debit,Auto Insurance,Savings
+02/26/2018,McDonald's,74.53,debit,Fast Food,Silver Card
+02/26/2018,AMC Theaters,176.55,debit,Entertainment,Savings
+02/28/2018,Netflix,69.51,debit,Movies & DVDs,Silver Card
+03/03/2018,Barbershop,154.31,debit,Haircut,Platinum Card
+03/03/2018,Chipotle,47.48,debit,Fast Food,Savings
+03/03/2018,Walmart,153.1,debit,Shopping,Platinum Card
+03/06/2018,Comcast,180.97,debit,Internet,Savings
+03/07/2018,Safeway,114.86,debit,Groceries,Silver Card
+03/07/2018,Thai Restaurant,9.09,debit,Restaurants,Platinum Card
+03/09/2018,Spotify,151.08,debit,Music,Checking
+03/12/2018,Whole Foods,78.51,debit,Groceries,Platinum Card
+03/14/2018,BP,65.16,debit,Gas & Fuel,Savings
+03/17/2018,Amazon Video,29.45,debit,Movies & DVDs,Silver Card
+03/20/2018,Chevron,82.29,debit,Gas & Fuel,Platinum Card
+03/23/2018,BP,93.04,debit,Gas & Fuel,Savings
+03/23/2018,Italian Bistro,32.87,debit,Restaurants,Savings
+03/24/2018,AMC Theaters,29.18,debit,Entertainment,Savings
+03/24/2018,Comcast,18.53,debit,Internet,Savings
+03/27/2018,Direct Deposit,2419.08,credit,Paycheck,Platinum Card
+03/27/2018,Walmart,36.43,debit,Shopping,Checking
+03/27/2018,Payroll,2323.28,credit,Paycheck,Checking
+03/29/2018,Water Company,19.14,debit,Utilities,Silver Card
+03/31/2018,Target,121.95,debit,Shopping,Platinum Card
+04/01/2018,Direct Deposit,2202.12,credit,Paycheck,Savings
+04/04/2018,Italian Bistro,64.48,debit,Restaurants,Platinum Card
+04/04/2018,Barbershop,28.19,debit,Haircut,Platinum Card
+04/04/2018,Trader Joe's,108.12,debit,Groceries,Silver Card
+04/07/2018,Sushi Bar,45.75,debit,Restaurants,Silver Card
+04/09/2018,AT&T Internet,67.0,debit,Internet,Savings
+04/09/2018,Trader Joe's,149.7,debit,Groceries,Checking
+04/10/2018,Chevron,89.5,debit,Gas & Fuel,Silver Card
+04/10/2018,BP,47.22,debit,Gas & Fuel,Checking
+04/12/2018,State Farm,51.46,debit,Auto Insurance,Checking
+04/13/2018,Payroll,2583.79,credit,Paycheck,Platinum Card
+04/16/2018,T-Mobile,103.94,debit,Mobile Phone,Savings
+04/16/2018,Shell,63.17,debit,Gas & Fuel,Silver Card
+04/19/2018,Payroll,2360.65,credit,Paycheck,Savings
+04/19/2018,Direct Deposit,2276.8,credit,Paycheck,Platinum Card
+04/20/2018,Comcast,141.98,debit,Internet,Platinum Card
+04/22/2018,Home Depot,16.45,debit,Home Improvement,Platinum Card
+04/22/2018,Sushi Bar,18.19,debit,Restaurants,Silver Card
+04/24/2018,Italian Bistro,16.48,debit,Restaurants,Checking
+04/25/2018,Starbucks,187.99,debit,Coffee Shops,Savings
+04/25/2018,Electric Company,72.33,debit,Utilities,Checking
+04/25/2018,Starbucks,195.58,debit,Coffee Shops,Savings
+04/25/2018,Subway,60.16,debit,Fast Food,Savings
+04/27/2018,Walmart,138.29,debit,Shopping,Checking
+04/30/2018,McDonald's,72.52,debit,Fast Food,Checking
+05/03/2018,Chevron,77.77,debit,Gas & Fuel,Silver Card
+05/03/2018,Verizon,101.05,debit,Mobile Phone,Silver Card
+05/04/2018,McDonald's,24.13,debit,Fast Food,Platinum Card
+05/05/2018,Home Depot,74.49,debit,Home Improvement,Platinum Card
+05/06/2018,Whole Foods,72.96,debit,Groceries,Checking
+05/08/2018,Thai Restaurant,78.66,debit,Restaurants,Checking
+05/11/2018,Verizon,114.47,debit,Mobile Phone,Checking
+05/12/2018,AMC Theaters,138.44,debit,Entertainment,Checking
+05/13/2018,AMC Theaters,177.59,debit,Entertainment,Checking
+05/16/2018,Walmart,45.88,debit,Shopping,Checking
+05/19/2018,Water Company,75.26,debit,Utilities,Platinum Card
+05/20/2018,Whole Foods,27.01,debit,Groceries,Silver Card
+05/21/2018,Shell,57.0,debit,Gas & Fuel,Platinum Card
+05/22/2018,Trader Joe's,107.0,debit,Groceries,Platinum Card
+05/24/2018,Subway,21.72,debit,Fast Food,Platinum Card
+05/24/2018,Water Company,19.27,debit,Utilities,Platinum Card
+05/25/2018,Shell,46.0,debit,Gas & Fuel,Savings
+05/28/2018,Amazon,26.72,debit,Shopping,Checking
+05/30/2018,Peet's Coffee,148.67,debit,Coffee Shops,Platinum Card
+06/02/2018,Sushi Bar,11.39,debit,Restaurants,Savings
+06/02/2018,Safeway,103.0,debit,Groceries,Savings
+06/04/2018,State Farm,83.52,debit,Auto Insurance,Savings
+06/07/2018,Local Bar,120.83,debit,Alcohol & Bars,Savings
+06/09/2018,Whole Foods,146.85,debit,Groceries,Savings
+06/12/2018,Shell,53.86,debit,Gas & Fuel,Platinum Card
+06/12/2018,McDonald's,36.94,debit,Fast Food,Silver Card
+06/14/2018,Local Bar,72.24,debit,Alcohol & Bars,Savings
+06/17/2018,Spotify,85.9,debit,Music,Silver Card
+06/18/2018,Starbucks,82.7,debit,Coffee Shops,Checking
+06/20/2018,Whole Foods,19.39,debit,Groceries,Savings
+06/20/2018,Spotify,116.63,debit,Music,Savings
+06/22/2018,AMC Theaters,193.6,debit,Entertainment,Checking
+06/24/2018,Starbucks,15.38,debit,Coffee Shops,Silver Card
+06/26/2018,Target,125.97,debit,Shopping,Platinum Card
+06/26/2018,Sushi Bar,11.45,debit,Restaurants,Platinum Card
+06/29/2018,Safeway,146.69,debit,Groceries,Silver Card
+07/01/2018,Walmart,162.02,debit,Shopping,Platinum Card
+07/03/2018,BP,86.73,debit,Gas & Fuel,Platinum Card
+07/06/2018,Thai Restaurant,11.26,debit,Restaurants,Savings
+07/09/2018,Italian Bistro,11.17,debit,Restaurants,Savings
+07/09/2018,Water Company,87.55,debit,Utilities,Platinum Card
+07/11/2018,BP,32.63,debit,Gas & Fuel,Platinum Card
+07/13/2018,Thai Restaurant,31.86,debit,Restaurants,Savings
+07/14/2018,Sushi Bar,42.95,debit,Restaurants,Platinum Card
+07/16/2018,T-Mobile,134.64,debit,Mobile Phone,Silver Card
+07/16/2018,Subway,67.83,debit,Fast Food,Platinum Card
+07/19/2018,State Farm,55.22,debit,Auto Insurance,Checking
+07/21/2018,State Farm,164.5,debit,Auto Insurance,Silver Card
+07/24/2018,Chevron,58.56,debit,Gas & Fuel,Checking
+07/27/2018,Sushi Bar,51.84,debit,Restaurants,Checking
+07/30/2018,Starbucks,127.67,debit,Coffee Shops,Platinum Card
+07/31/2018,T-Mobile,27.91,debit,Mobile Phone,Platinum Card
+08/01/2018,Italian Bistro,41.45,debit,Restaurants,Checking
+08/01/2018,Italian Bistro,20.84,debit,Restaurants,Silver Card
+08/03/2018,Subway,55.67,debit,Fast Food,Checking
+08/03/2018,T-Mobile,143.25,debit,Mobile Phone,Checking
+08/06/2018,Whole Foods,118.54,debit,Groceries,Platinum Card
+08/09/2018,Safeway,112.73,debit,Groceries,Savings
+08/10/2018,Chevron,74.52,debit,Gas & Fuel,Savings
+08/11/2018,AMC Theaters,94.9,debit,Entertainment,Savings
+08/12/2018,Whole Foods,94.82,debit,Groceries,Platinum Card
+08/15/2018,Trader Joe's,54.41,debit,Groceries,Silver Card
+08/16/2018,AMC Theaters,118.84,debit,Entertainment,Silver Card
+08/19/2018,Direct Deposit,2007.37,credit,Paycheck,Savings
+08/19/2018,Water Company,92.72,debit,Utilities,Silver Card
+08/20/2018,Starbucks,61.86,debit,Coffee Shops,Checking
+08/22/2018,Subway,25.76,debit,Fast Food,Platinum Card
+08/23/2018,Starbucks,128.6,debit,Coffee Shops,Silver Card
+08/26/2018,Comcast,149.74,debit,Internet,Platinum Card
+08/27/2018,McDonald's,54.05,debit,Fast Food,Savings
+08/28/2018,Sushi Bar,68.81,debit,Restaurants,Silver Card
+08/29/2018,AT&T Internet,195.74,debit,Internet,Checking
+08/31/2018,Trader Joe's,67.13,debit,Groceries,Checking
+09/02/2018,Comcast,131.76,debit,Internet,Savings
+09/02/2018,Starbucks,190.34,debit,Coffee Shops,Platinum Card
+09/04/2018,Shell,35.51,debit,Gas & Fuel,Platinum Card
+09/05/2018,Target,154.11,debit,Shopping,Silver Card
+09/06/2018,Walmart,121.03,debit,Shopping,Savings
+09/09/2018,BP,93.69,debit,Gas & Fuel,Platinum Card
+09/09/2018,Italian Bistro,66.66,debit,Restaurants,Checking
+09/12/2018,BP,93.41,debit,Gas & Fuel,Silver Card
+09/15/2018,Home Depot,153.41,debit,Home Improvement,Silver Card
+09/15/2018,Whole Foods,27.22,debit,Groceries,Silver Card
+09/17/2018,State Farm,35.6,debit,Auto Insurance,Checking
+09/17/2018,Chipotle,31.41,debit,Fast Food,Platinum Card
+09/20/2018,Sushi Bar,18.44,debit,Restaurants,Checking
+09/20/2018,Netflix,133.32,debit,Entertainment,Silver Card
+09/23/2018,Water Company,104.07,debit,Utilities,Platinum Card
+09/24/2018,Comcast,87.55,debit,Internet,Platinum Card
+09/27/2018,Local Bar,110.47,debit,Alcohol & Bars,Platinum Card
+09/29/2018,T-Mobile,151.09,debit,Mobile Phone,Silver Card
+09/29/2018,AMC Theaters,65.9,debit,Entertainment,Silver Card
+09/29/2018,BP,75.64,debit,Gas & Fuel,Silver Card
+09/29/2018,Amazon,191.37,debit,Shopping,Silver Card
+10/01/2018,Verizon,62.29,debit,Mobile Phone,Checking
+10/04/2018,Water Company,113.54,debit,Utilities,Silver Card
+10/04/2018,Amazon,161.86,debit,Shopping,Checking
+10/06/2018,AMC Theaters,100.49,debit,Entertainment,Savings
+10/07/2018,Barbershop,184.42,debit,Haircut,Silver Card
+10/10/2018,Shell,68.11,debit,Gas & Fuel,Silver Card
+10/13/2018,Whole Foods,39.9,debit,Groceries,Silver Card
+10/13/2018,Safeway,62.23,debit,Groceries,Silver Card
+10/16/2018,Local Bar,157.34,debit,Alcohol & Bars,Savings
+10/16/2018,T-Mobile,50.57,debit,Mobile Phone,Platinum Card
+10/18/2018,Amazon,122.36,debit,Shopping,Platinum Card
+10/21/2018,Chevron,55.82,debit,Gas & Fuel,Savings
+10/22/2018,Peet's Coffee,74.73,debit,Coffee Shops,Platinum Card
+10/25/2018,Netflix,190.69,debit,Entertainment,Silver Card
+10/28/2018,McDonald's,57.6,debit,Fast Food,Silver Card
+10/31/2018,Trader Joe's,71.45,debit,Groceries,Checking
+11/03/2018,Netflix,62.95,debit,Entertainment,Silver Card
+11/06/2018,Target,67.74,debit,Shopping,Savings
+11/08/2018,Electric Company,68.29,debit,Utilities,Savings
+11/11/2018,Shell,97.13,debit,Gas & Fuel,Checking
+11/13/2018,Home Depot,85.62,debit,Home Improvement,Platinum Card
+11/14/2018,Thai Restaurant,6.91,debit,Restaurants,Platinum Card
+11/16/2018,Thai Restaurant,33.4,debit,Restaurants,Savings
+11/17/2018,Starbucks,170.13,debit,Coffee Shops,Savings
+11/17/2018,Electric Company,44.77,debit,Utilities,Checking
+11/20/2018,Payroll,2455.78,credit,Paycheck,Savings
+11/23/2018,Starbucks,177.26,debit,Coffee Shops,Silver Card
+11/26/2018,Direct Deposit,2404.68,credit,Paycheck,Checking
+11/28/2018,Home Depot,179.06,debit,Home Improvement,Platinum Card
+11/30/2018,Local Bar,59.25,debit,Alcohol & Bars,Savings
+12/02/2018,AMC Theaters,82.98,debit,Entertainment,Silver Card
+12/04/2018,AMC Theaters,109.97,debit,Entertainment,Platinum Card
+12/06/2018,Electric Company,111.87,debit,Utilities,Checking
+12/08/2018,Chevron,87.52,debit,Gas & Fuel,Checking
+12/08/2018,Whole Foods,37.43,debit,Groceries,Platinum Card
+12/11/2018,Walmart,13.54,debit,Shopping,Platinum Card
+12/12/2018,Comcast,83.55,debit,Internet,Silver Card
+12/14/2018,Starbucks,133.16,debit,Coffee Shops,Checking
+12/15/2018,Chevron,31.58,debit,Gas & Fuel,Savings
+12/16/2018,Subway,70.55,debit,Fast Food,Silver Card
+12/18/2018,Whole Foods,119.17,debit,Groceries,Checking
+12/20/2018,Whole Foods,129.58,debit,Groceries,Savings
+12/23/2018,Sushi Bar,77.85,debit,Restaurants,Checking
+12/25/2018,Comcast,61.82,debit,Internet,Savings
+12/25/2018,Netflix,169.2,debit,Movies & DVDs,Checking
+12/27/2018,Shell,40.35,debit,Gas & Fuel,Platinum Card
+12/29/2018,Target,193.49,debit,Shopping,Checking
+12/29/2018,Peet's Coffee,176.92,debit,Coffee Shops,Savings
+01/01/2019,Local Bar,152.76,debit,Alcohol & Bars,Platinum Card
+01/04/2019,AT&T Internet,156.39,debit,Internet,Checking
+01/04/2019,AMC Theaters,37.88,debit,Entertainment,Savings
+01/06/2019,Verizon,32.92,debit,Mobile Phone,Platinum Card
+01/08/2019,Subway,31.31,debit,Fast Food,Checking
+01/08/2019,AMC Theaters,172.77,debit,Entertainment,Platinum Card
+01/11/2019,Barbershop,194.71,debit,Haircut,Silver Card
+01/14/2019,Walmart,72.38,debit,Shopping,Silver Card
+01/16/2019,Chipotle,38.59,debit,Fast Food,Silver Card
+01/16/2019,BP,77.5,debit,Gas & Fuel,Checking
+01/19/2019,Target,126.31,debit,Shopping,Platinum Card
+01/21/2019,Subway,23.44,debit,Fast Food,Platinum Card
+01/24/2019,Barbershop,99.49,debit,Haircut,Checking
+01/25/2019,Direct Deposit,2878.15,credit,Paycheck,Platinum Card
+01/27/2019,Sushi Bar,70.2,debit,Restaurants,Checking
+01/30/2019,Safeway,79.29,debit,Groceries,Platinum Card
+02/01/2019,Electric Company,143.28,debit,Utilities,Silver Card
+02/01/2019,Netflix,77.86,debit,Movies & DVDs,Silver Card
+02/03/2019,Amazon,84.53,debit,Shopping,Silver Card
+02/06/2019,State Farm,38.67,debit,Auto Insurance,Silver Card
+02/09/2019,AMC Theaters,77.14,debit,Entertainment,Silver Card
+02/12/2019,Spotify,113.99,debit,Music,Savings
+02/13/2019,Netflix,62.17,debit,Entertainment,Savings
+02/14/2019,Thai Restaurant,7.58,debit,Restaurants,Silver Card
+02/15/2019,Italian Bistro,37.34,debit,Restaurants,Savings
+02/18/2019,Target,30.16,debit,Shopping,Savings
+02/21/2019,Verizon,129.07,debit,Mobile Phone,Savings
+02/22/2019,Safeway,68.13,debit,Groceries,Savings
+02/23/2019,Peet's Coffee,138.19,debit,Coffee Shops,Savings
+02/23/2019,Water Company,42.93,debit,Utilities,Savings
+02/23/2019,Whole Foods,138.44,debit,Groceries,Savings
+02/25/2019,AMC Theaters,25.94,debit,Entertainment,Checking
+02/27/2019,Local Bar,100.66,debit,Alcohol & Bars,Platinum Card
+03/02/2019,Trader Joe's,55.84,debit,Groceries,Silver Card
+03/03/2019,Amazon,8.94,debit,Shopping,Platinum Card
+03/04/2019,Verizon,180.83,debit,Mobile Phone,Savings
+03/04/2019,Electric Company,69.56,debit,Utilities,Savings
+03/05/2019,Direct Deposit,2734.35,credit,Paycheck,Silver Card
+03/08/2019,Thai Restaurant,37.79,debit,Restaurants,Checking
+03/10/2019,Shell,41.39,debit,Gas & Fuel,Checking
+03/10/2019,Thai Restaurant,68.19,debit,Restaurants,Savings
+03/12/2019,Safeway,117.2,debit,Groceries,Savings
+03/15/2019,Trader Joe's,68.85,debit,Groceries,Checking
+03/15/2019,Verizon,66.66,debit,Mobile Phone,Savings
+03/18/2019,Water Company,88.41,debit,Utilities,Savings
+03/21/2019,Italian Bistro,33.94,debit,Restaurants,Silver Card
+03/22/2019,State Farm,107.1,debit,Auto Insurance,Platinum Card
+03/22/2019,Chevron,38.97,debit,Gas & Fuel,Savings
+03/25/2019,Netflix,95.37,debit,Entertainment,Platinum Card
+03/25/2019,Water Company,87.33,debit,Utilities,Checking
+03/25/2019,AT&T Internet,87.84,debit,Internet,Platinum Card
+03/26/2019,Amazon Video,130.9,debit,Movies & DVDs,Savings
+03/27/2019,Starbucks,63.54,debit,Coffee Shops,Platinum Card
+03/27/2019,Starbucks,162.82,debit,Coffee Shops,Platinum Card
+03/28/2019,Direct Deposit,2946.55,credit,Paycheck,Silver Card
+03/28/2019,BP,93.29,debit,Gas & Fuel,Savings
+03/30/2019,Water Company,98.8,debit,Utilities,Savings
+04/02/2019,Amazon,128.43,debit,Shopping,Silver Card
+04/03/2019,Amazon,87.71,debit,Shopping,Silver Card
+04/06/2019,AMC Theaters,41.11,debit,Entertainment,Platinum Card
+04/09/2019,Chipotle,24.1,debit,Fast Food,Checking
+04/09/2019,Safeway,39.87,debit,Groceries,Checking
+04/11/2019,State Farm,14.22,debit,Auto Insurance,Silver Card
+04/12/2019,BP,23.32,debit,Gas & Fuel,Checking
+04/13/2019,AMC Theaters,176.52,debit,Entertainment,Platinum Card
+04/14/2019,Thai Restaurant,69.02,debit,Restaurants,Checking
+04/16/2019,Barbershop,31.2,debit,Haircut,Savings
+04/19/2019,Whole Foods,141.82,debit,Groceries,Silver Card
+04/19/2019,Home Depot,127.07,debit,Home Improvement,Silver Card
+04/20/2019,Electric Company,150.19,debit,Utilities,Savings
+04/22/2019,Barbershop,62.57,debit,Haircut,Platinum Card
+04/23/2019,Chevron,64.54,debit,Gas & Fuel,Platinum Card
+04/26/2019,Netflix,87.96,debit,Entertainment,Checking
+04/29/2019,Local Bar,180.08,debit,Alcohol & Bars,Checking
+04/30/2019,Sushi Bar,74.15,debit,Restaurants,Checking
+05/01/2019,Peet's Coffee,51.95,debit,Coffee Shops,Silver Card
+05/02/2019,Starbucks,155.86,debit,Coffee Shops,Savings
+05/04/2019,Spotify,86.02,debit,Music,Savings
+05/05/2019,Chevron,51.04,debit,Gas & Fuel,Platinum Card
+05/08/2019,Water Company,31.58,debit,Utilities,Platinum Card
+05/10/2019,T-Mobile,99.7,debit,Mobile Phone,Platinum Card
+05/11/2019,BP,42.75,debit,Gas & Fuel,Checking
+05/12/2019,BP,73.85,debit,Gas & Fuel,Silver Card
+05/14/2019,Netflix,73.82,debit,Entertainment,Platinum Card
+05/16/2019,Electric Company,133.11,debit,Utilities,Platinum Card
+05/16/2019,Whole Foods,104.18,debit,Groceries,Silver Card
+05/18/2019,Comcast,46.92,debit,Internet,Silver Card
+05/19/2019,BP,79.65,debit,Gas & Fuel,Silver Card
+05/19/2019,Whole Foods,141.28,debit,Groceries,Platinum Card
+05/20/2019,Sushi Bar,64.9,debit,Restaurants,Checking
+05/23/2019,McDonald's,24.46,debit,Fast Food,Platinum Card
+05/26/2019,Sushi Bar,51.18,debit,Restaurants,Savings
+05/27/2019,Whole Foods,46.49,debit,Groceries,Silver Card
+05/28/2019,Thai Restaurant,76.86,debit,Restaurants,Savings
+05/28/2019,Whole Foods,81.1,debit,Groceries,Checking
+05/30/2019,Comcast,40.56,debit,Internet,Checking
+06/01/2019,Sushi Bar,17.63,debit,Restaurants,Savings
+06/01/2019,Electric Company,170.31,debit,Utilities,Checking
+06/02/2019,Trader Joe's,43.45,debit,Groceries,Savings
+06/04/2019,Chipotle,65.44,debit,Fast Food,Silver Card
+06/04/2019,Amazon Video,184.45,debit,Movies & DVDs,Silver Card
+06/04/2019,Water Company,122.47,debit,Utilities,Platinum Card
+06/07/2019,Safeway,147.06,debit,Groceries,Silver Card
+06/09/2019,Thai Restaurant,52.84,debit,Restaurants,Silver Card
+06/12/2019,Chipotle,14.91,debit,Fast Food,Silver Card
+06/12/2019,Subway,66.08,debit,Fast Food,Platinum Card
+06/12/2019,Thai Restaurant,54.21,debit,Restaurants,Savings
+06/15/2019,Electric Company,165.16,debit,Utilities,Platinum Card
+06/18/2019,Whole Foods,118.21,debit,Groceries,Savings
+06/18/2019,Payroll,2824.96,credit,Paycheck,Silver Card
+06/18/2019,Water Company,124.54,debit,Utilities,Silver Card
+06/18/2019,Amazon,119.88,debit,Shopping,Checking
+06/21/2019,Peet's Coffee,143.88,debit,Coffee Shops,Checking
+06/21/2019,Payroll,2235.24,credit,Paycheck,Checking
+06/22/2019,Shell,95.68,debit,Gas & Fuel,Platinum Card
+06/23/2019,Chipotle,29.44,debit,Fast Food,Silver Card
+06/25/2019,Safeway,18.09,debit,Groceries,Checking
+06/28/2019,Local Bar,104.57,debit,Alcohol & Bars,Checking
+06/29/2019,AT&T Internet,56.27,debit,Internet,Platinum Card
+06/30/2019,Direct Deposit,2995.8,credit,Paycheck,Checking
+07/01/2019,T-Mobile,67.58,debit,Mobile Phone,Savings
+07/01/2019,Netflix,64.02,debit,Entertainment,Savings
+07/01/2019,Starbucks,187.64,debit,Coffee Shops,Checking
+07/04/2019,Italian Bistro,34.3,debit,Restaurants,Checking
+07/04/2019,Peet's Coffee,33.47,debit,Coffee Shops,Silver Card
+07/07/2019,Italian Bistro,27.59,debit,Restaurants,Savings
+07/09/2019,Sushi Bar,15.62,debit,Restaurants,Platinum Card
+07/10/2019,Spotify,160.16,debit,Music,Silver Card
+07/13/2019,AMC Theaters,108.73,debit,Entertainment,Platinum Card
+07/15/2019,State Farm,31.15,debit,Auto Insurance,Checking
+07/16/2019,Direct Deposit,2586.65,credit,Paycheck,Savings
+07/18/2019,Safeway,141.27,debit,Groceries,Savings
+07/18/2019,Sushi Bar,69.73,debit,Restaurants,Savings
+07/18/2019,Netflix,144.27,debit,Entertainment,Silver Card
+07/21/2019,Walmart,109.41,debit,Shopping,Savings
+07/24/2019,Local Bar,83.72,debit,Alcohol & Bars,Checking
+07/27/2019,Comcast,71.4,debit,Internet,Savings
+07/27/2019,Amazon,39.91,debit,Shopping,Savings
+07/27/2019,Home Depot,95.42,debit,Home Improvement,Silver Card
+07/29/2019,AMC Theaters,150.35,debit,Entertainment,Savings
+07/29/2019,Chevron,39.79,debit,Gas & Fuel,Silver Card
+07/31/2019,Direct Deposit,2059.75,credit,Paycheck,Checking
+08/01/2019,Walmart,132.73,debit,Shopping,Platinum Card
+08/04/2019,Amazon,86.43,debit,Shopping,Platinum Card
+08/04/2019,Subway,6.77,debit,Fast Food,Savings
+08/07/2019,Chevron,61.15,debit,Gas & Fuel,Platinum Card
+08/08/2019,Local Bar,39.71,debit,Alcohol & Bars,Silver Card
+08/09/2019,BP,80.71,debit,Gas & Fuel,Checking
+08/10/2019,Payroll,2036.55,credit,Paycheck,Checking
+08/13/2019,Peet's Coffee,120.39,debit,Coffee Shops,Savings
+08/13/2019,Italian Bistro,11.47,debit,Restaurants,Silver Card
+08/16/2019,Target,91.32,debit,Shopping,Savings
+08/18/2019,Verizon,124.07,debit,Mobile Phone,Savings
+08/19/2019,Amazon,134.71,debit,Shopping,Silver Card
+08/19/2019,Electric Company,124.65,debit,Utilities,Savings
+08/19/2019,AT&T Internet,194.42,debit,Internet,Silver Card
+08/20/2019,Payroll,2668.24,credit,Paycheck,Checking
+08/20/2019,Chevron,74.56,debit,Gas & Fuel,Silver Card
+08/20/2019,Sushi Bar,11.08,debit,Restaurants,Platinum Card
+08/22/2019,Amazon,195.28,debit,Shopping,Checking
+08/25/2019,Netflix,192.4,debit,Entertainment,Silver Card
+08/27/2019,Chevron,41.25,debit,Gas & Fuel,Checking
+08/27/2019,Thai Restaurant,22.5,debit,Restaurants,Silver Card
+08/30/2019,AMC Theaters,188.95,debit,Entertainment,Savings
+08/30/2019,Local Bar,9.44,debit,Alcohol & Bars,Savings
+09/02/2019,Payroll,1875.18,credit,Paycheck,Silver Card
+09/04/2019,BP,44.24,debit,Gas & Fuel,Silver Card
+09/07/2019,Shell,46.7,debit,Gas & Fuel,Savings
+09/09/2019,Trader Joe's,102.48,debit,Groceries,Savings
+09/11/2019,Peet's Coffee,150.62,debit,Coffee Shops,Silver Card
+09/14/2019,Payroll,2633.49,credit,Paycheck,Platinum Card
+09/17/2019,Chevron,51.32,debit,Gas & Fuel,Checking
+09/19/2019,Whole Foods,68.85,debit,Groceries,Silver Card
+09/19/2019,Barbershop,37.82,debit,Haircut,Checking
+09/20/2019,Starbucks,113.68,debit,Coffee Shops,Checking
+09/20/2019,Whole Foods,99.24,debit,Groceries,Platinum Card
+09/20/2019,McDonald's,35.91,debit,Fast Food,Savings
+09/21/2019,Local Bar,95.82,debit,Alcohol & Bars,Savings
+09/21/2019,Walmart,177.24,debit,Shopping,Checking
+09/22/2019,McDonald's,28.38,debit,Fast Food,Silver Card
+09/23/2019,Safeway,22.41,debit,Groceries,Checking
+09/26/2019,Chevron,20.93,debit,Gas & Fuel,Platinum Card
+09/26/2019,Italian Bistro,59.33,debit,Restaurants,Platinum Card
+09/28/2019,AMC Theaters,78.88,debit,Entertainment,Platinum Card
+09/28/2019,Trader Joe's,117.39,debit,Groceries,Savings
+09/29/2019,AMC Theaters,68.78,debit,Entertainment,Savings
+10/02/2019,AMC Theaters,190.2,debit,Entertainment,Checking
+10/05/2019,Subway,46.94,debit,Fast Food,Platinum Card
+10/07/2019,Chevron,62.83,debit,Gas & Fuel,Savings
+10/10/2019,T-Mobile,13.04,debit,Mobile Phone,Platinum Card
+10/12/2019,Barbershop,83.48,debit,Haircut,Savings
+10/12/2019,Amazon,7.11,debit,Shopping,Checking
+10/15/2019,Direct Deposit,2261.01,credit,Paycheck,Silver Card
+10/16/2019,Walmart,193.68,debit,Shopping,Silver Card
+10/16/2019,Home Depot,46.28,debit,Home Improvement,Silver Card
+10/16/2019,Shell,63.15,debit,Gas & Fuel,Silver Card
+10/16/2019,State Farm,188.7,debit,Auto Insurance,Savings
+10/16/2019,Chevron,44.08,debit,Gas & Fuel,Savings
+10/16/2019,Chipotle,56.49,debit,Fast Food,Platinum Card
+10/16/2019,Subway,54.1,debit,Fast Food,Savings
+10/19/2019,Electric Company,17.74,debit,Utilities,Checking
+10/21/2019,Starbucks,198.92,debit,Coffee Shops,Platinum Card
+10/24/2019,Trader Joe's,130.8,debit,Groceries,Checking
+10/27/2019,T-Mobile,146.49,debit,Mobile Phone,Platinum Card
+10/28/2019,Target,76.55,debit,Shopping,Silver Card
+10/31/2019,Walmart,146.34,debit,Shopping,Checking
+11/03/2019,Comcast,47.43,debit,Internet,Platinum Card
+11/03/2019,Safeway,102.14,debit,Groceries,Platinum Card
+11/06/2019,Trader Joe's,19.15,debit,Groceries,Platinum Card
+11/09/2019,Spotify,85.12,debit,Music,Platinum Card
+11/11/2019,Subway,31.89,debit,Fast Food,Checking
+11/11/2019,Netflix,63.48,debit,Entertainment,Platinum Card
+11/14/2019,Netflix,17.91,debit,Entertainment,Silver Card
+11/15/2019,Italian Bistro,76.41,debit,Restaurants,Savings
+11/16/2019,Payroll,2878.93,credit,Paycheck,Platinum Card
+11/18/2019,Peet's Coffee,186.59,debit,Coffee Shops,Checking
+11/21/2019,State Farm,42.27,debit,Auto Insurance,Checking
+11/22/2019,AMC Theaters,101.25,debit,Entertainment,Platinum Card
+11/25/2019,Chevron,44.93,debit,Gas & Fuel,Platinum Card
+11/28/2019,Netflix,170.73,debit,Entertainment,Silver Card
+12/01/2019,Chevron,68.48,debit,Gas & Fuel,Savings
+12/03/2019,Starbucks,30.64,debit,Coffee Shops,Platinum Card
+12/06/2019,AT&T Internet,33.0,debit,Internet,Silver Card
+12/08/2019,Chevron,41.69,debit,Gas & Fuel,Platinum Card
+12/08/2019,Chevron,50.08,debit,Gas & Fuel,Silver Card
+12/09/2019,Amazon,116.13,debit,Shopping,Savings
+12/11/2019,AT&T Internet,167.01,debit,Internet,Savings
+12/12/2019,McDonald's,8.91,debit,Fast Food,Platinum Card
+12/13/2019,Starbucks,186.73,debit,Coffee Shops,Savings
+12/14/2019,Water Company,166.8,debit,Utilities,Silver Card
+12/17/2019,Italian Bistro,17.13,debit,Restaurants,Checking
+12/19/2019,Amazon,134.81,debit,Shopping,Checking
+12/22/2019,Verizon,165.54,debit,Mobile Phone,Checking
+12/23/2019,Target,152.84,debit,Shopping,Platinum Card
+12/24/2019,State Farm,34.9,debit,Auto Insurance,Silver Card
+12/26/2019,AMC Theaters,134.97,debit,Entertainment,Silver Card
+12/26/2019,Shell,39.4,debit,Gas & Fuel,Savings
+12/27/2019,Sushi Bar,32.0,debit,Restaurants,Checking
+12/28/2019,T-Mobile,72.86,debit,Mobile Phone,Checking
+12/31/2019,Local Bar,100.11,debit,Alcohol & Bars,Savings
+01/01/2020,Thai Restaurant,79.28,debit,Restaurants,Silver Card
+01/02/2020,BP,65.38,debit,Gas & Fuel,Silver Card
+01/03/2020,Netflix,95.69,debit,Entertainment,Savings
+01/03/2020,Local Bar,135.96,debit,Alcohol & Bars,Checking
+01/04/2020,Whole Foods,131.91,debit,Groceries,Silver Card
+01/06/2020,Target,11.22,debit,Shopping,Savings
+01/08/2020,Water Company,51.83,debit,Utilities,Savings
+01/10/2020,Sushi Bar,75.62,debit,Restaurants,Silver Card
+01/10/2020,Shell,25.86,debit,Gas & Fuel,Checking
+01/10/2020,AMC Theaters,19.26,debit,Entertainment,Checking
+01/12/2020,Water Company,159.24,debit,Utilities,Checking
+01/12/2020,AT&T Internet,118.55,debit,Internet,Silver Card
+01/13/2020,Target,69.1,debit,Shopping,Checking
+01/15/2020,Chevron,85.0,debit,Gas & Fuel,Checking
+01/15/2020,Subway,22.69,debit,Fast Food,Platinum Card
+01/17/2020,Chevron,82.39,debit,Gas & Fuel,Savings
+01/17/2020,Local Bar,194.62,debit,Alcohol & Bars,Silver Card
+01/20/2020,Sushi Bar,33.74,debit,Restaurants,Savings
+01/23/2020,Sushi Bar,57.41,debit,Restaurants,Savings
+01/25/2020,Amazon,171.5,debit,Shopping,Platinum Card
+01/26/2020,AMC Theaters,106.95,debit,Entertainment,Platinum Card
+01/28/2020,AMC Theaters,67.81,debit,Entertainment,Silver Card
+01/29/2020,Sushi Bar,19.27,debit,Restaurants,Checking
+01/30/2020,Home Depot,113.63,debit,Home Improvement,Silver Card
+01/30/2020,Safeway,111.39,debit,Groceries,Checking
+02/02/2020,Target,27.84,debit,Shopping,Silver Card
+02/03/2020,Thai Restaurant,5.5,debit,Restaurants,Silver Card
+02/03/2020,Shell,31.97,debit,Gas & Fuel,Savings
+02/05/2020,Sushi Bar,46.18,debit,Restaurants,Savings
+02/06/2020,Payroll,2093.45,credit,Paycheck,Savings
+02/07/2020,Whole Foods,148.4,debit,Groceries,Checking
+02/10/2020,Starbucks,78.11,debit,Coffee Shops,Silver Card
+02/10/2020,Verizon,175.3,debit,Mobile Phone,Platinum Card
+02/13/2020,Starbucks,118.87,debit,Coffee Shops,Platinum Card
+02/13/2020,Trader Joe's,136.73,debit,Groceries,Platinum Card
+02/13/2020,Trader Joe's,42.02,debit,Groceries,Platinum Card
+02/14/2020,Trader Joe's,60.15,debit,Groceries,Savings
+02/14/2020,T-Mobile,177.38,debit,Mobile Phone,Platinum Card
+02/15/2020,Peet's Coffee,154.59,debit,Coffee Shops,Platinum Card
+02/18/2020,Water Company,177.58,debit,Utilities,Checking
+02/21/2020,Chevron,28.2,debit,Gas & Fuel,Checking
+02/24/2020,Peet's Coffee,175.99,debit,Coffee Shops,Checking
+02/27/2020,Local Bar,111.68,debit,Alcohol & Bars,Checking
+03/01/2020,Barbershop,49.38,debit,Haircut,Checking
+03/02/2020,Starbucks,7.22,debit,Coffee Shops,Silver Card
+03/05/2020,Home Depot,81.86,debit,Home Improvement,Platinum Card
+03/06/2020,Comcast,154.75,debit,Internet,Platinum Card
+03/07/2020,Starbucks,128.41,debit,Coffee Shops,Silver Card
+03/08/2020,Chipotle,65.64,debit,Fast Food,Savings
+03/10/2020,Sushi Bar,27.05,debit,Restaurants,Silver Card
+03/12/2020,Safeway,34.09,debit,Groceries,Silver Card
+03/15/2020,Walmart,112.2,debit,Shopping,Silver Card
+03/17/2020,Verizon,11.66,debit,Mobile Phone,Checking
+03/17/2020,Netflix,110.95,debit,Entertainment,Savings
+03/20/2020,BP,62.86,debit,Gas & Fuel,Platinum Card
+03/22/2020,Starbucks,109.42,debit,Coffee Shops,Silver Card
+03/24/2020,State Farm,29.6,debit,Auto Insurance,Savings
+03/25/2020,Electric Company,57.48,debit,Utilities,Silver Card
+03/27/2020,Starbucks,55.99,debit,Coffee Shops,Platinum Card
+03/28/2020,Payroll,1954.46,credit,Paycheck,Silver Card
+03/31/2020,Sushi Bar,65.52,debit,Restaurants,Checking
+04/01/2020,AMC Theaters,198.18,debit,Entertainment,Checking
+04/03/2020,Safeway,134.66,debit,Groceries,Checking
+04/03/2020,Thai Restaurant,71.89,debit,Restaurants,Silver Card
+04/03/2020,Chipotle,9.81,debit,Fast Food,Savings
+04/05/2020,Direct Deposit,2385.96,credit,Paycheck,Savings
+04/06/2020,Shell,86.55,debit,Gas & Fuel,Platinum Card
+04/06/2020,Netflix,93.82,debit,Entertainment,Savings
+04/07/2020,Netflix,12.52,debit,Entertainment,Silver Card
+04/10/2020,Comcast,46.45,debit,Internet,Silver Card
+04/13/2020,Peet's Coffee,12.18,debit,Coffee Shops,Checking
+04/15/2020,Chevron,41.3,debit,Gas & Fuel,Platinum Card
+04/18/2020,Electric Company,58.7,debit,Utilities,Checking
+04/18/2020,Shell,64.36,debit,Gas & Fuel,Checking
+04/20/2020,Netflix,137.92,debit,Entertainment,Savings
+04/20/2020,Direct Deposit,2807.62,credit,Paycheck,Platinum Card
+04/22/2020,Home Depot,15.21,debit,Home Improvement,Platinum Card
+04/23/2020,Thai Restaurant,31.99,debit,Restaurants,Silver Card
+04/25/2020,Trader Joe's,78.61,debit,Groceries,Savings
+04/25/2020,Home Depot,173.72,debit,Home Improvement,Silver Card
+04/25/2020,Peet's Coffee,120.97,debit,Coffee Shops,Checking
+04/28/2020,BP,42.96,debit,Gas & Fuel,Checking
+04/28/2020,Italian Bistro,19.6,debit,Restaurants,Savings
+04/30/2020,Walmart,61.67,debit,Shopping,Platinum Card
+05/03/2020,Direct Deposit,2360.96,credit,Paycheck,Silver Card
+05/04/2020,Safeway,13.12,debit,Groceries,Silver Card
+05/04/2020,Safeway,13.07,debit,Groceries,Platinum Card
+05/06/2020,AMC Theaters,133.02,debit,Entertainment,Checking
+05/06/2020,Payroll,2987.89,credit,Paycheck,Platinum Card
+05/07/2020,Comcast,115.52,debit,Internet,Savings
+05/09/2020,Peet's Coffee,160.71,debit,Coffee Shops,Silver Card
+05/12/2020,Direct Deposit,2978.31,credit,Paycheck,Savings
+05/15/2020,Walmart,108.31,debit,Shopping,Savings
+05/15/2020,State Farm,15.43,debit,Auto Insurance,Platinum Card
+05/18/2020,Trader Joe's,71.43,debit,Groceries,Platinum Card
+05/19/2020,Trader Joe's,69.62,debit,Groceries,Silver Card
+05/21/2020,Target,166.93,debit,Shopping,Silver Card
+05/21/2020,Electric Company,106.6,debit,Utilities,Platinum Card
+05/22/2020,Target,168.68,debit,Shopping,Silver Card
+05/25/2020,Trader Joe's,89.05,debit,Groceries,Savings
+05/26/2020,Netflix,126.76,debit,Movies & DVDs,Savings
+05/26/2020,McDonald's,50.01,debit,Fast Food,Checking
+05/26/2020,Netflix,72.65,debit,Movies & DVDs,Platinum Card
+05/29/2020,Netflix,128.71,debit,Entertainment,Checking
+06/01/2020,Home Depot,146.91,debit,Home Improvement,Platinum Card
+06/01/2020,AT&T Internet,112.78,debit,Internet,Checking
+06/03/2020,Whole Foods,104.47,debit,Groceries,Platinum Card
+06/06/2020,AMC Theaters,133.85,debit,Entertainment,Silver Card
+06/06/2020,McDonald's,77.26,debit,Fast Food,Silver Card
+06/06/2020,Spotify,107.61,debit,Music,Silver Card
+06/07/2020,Thai Restaurant,76.53,debit,Restaurants,Silver Card
+06/09/2020,Spotify,26.01,debit,Music,Silver Card
+06/12/2020,State Farm,179.15,debit,Auto Insurance,Savings
+06/12/2020,Whole Foods,40.79,debit,Groceries,Platinum Card
+06/14/2020,T-Mobile,145.29,debit,Mobile Phone,Checking
+06/17/2020,Barbershop,46.43,debit,Haircut,Savings
+06/17/2020,AT&T Internet,80.13,debit,Internet,Platinum Card
+06/19/2020,State Farm,174.83,debit,Auto Insurance,Platinum Card
+06/20/2020,Amazon,51.73,debit,Shopping,Checking
+06/23/2020,Home Depot,20.25,debit,Home Improvement,Savings
+06/24/2020,Electric Company,192.8,debit,Utilities,Checking
+06/27/2020,Walmart,58.71,debit,Shopping,Silver Card
+06/30/2020,Trader Joe's,126.91,debit,Groceries,Silver Card
+07/01/2020,Amazon,44.66,debit,Shopping,Savings
+07/04/2020,Trader Joe's,89.35,debit,Groceries,Silver Card
+07/07/2020,Walmart,113.73,debit,Shopping,Silver Card
+07/09/2020,Subway,11.53,debit,Fast Food,Platinum Card
+07/11/2020,Netflix,11.71,debit,Entertainment,Checking
+07/11/2020,Safeway,92.91,debit,Groceries,Silver Card
+07/11/2020,Amazon,168.17,debit,Shopping,Checking
+07/14/2020,Amazon,15.88,debit,Shopping,Silver Card
+07/17/2020,Local Bar,123.09,debit,Alcohol & Bars,Silver Card
+07/20/2020,Netflix,38.81,debit,Entertainment,Platinum Card
+07/21/2020,Electric Company,96.0,debit,Utilities,Checking
+07/21/2020,Local Bar,66.1,debit,Alcohol & Bars,Platinum Card
+07/21/2020,T-Mobile,139.23,debit,Mobile Phone,Silver Card
+07/21/2020,Water Company,179.09,debit,Utilities,Checking
+07/21/2020,Home Depot,173.7,debit,Home Improvement,Platinum Card
+07/22/2020,Direct Deposit,2408.61,credit,Paycheck,Savings
+07/22/2020,Thai Restaurant,41.69,debit,Restaurants,Savings
+07/24/2020,T-Mobile,172.84,debit,Mobile Phone,Savings
+07/24/2020,AMC Theaters,188.06,debit,Entertainment,Savings
+07/27/2020,Thai Restaurant,79.01,debit,Restaurants,Checking
+07/29/2020,Amazon,134.56,debit,Shopping,Platinum Card
+07/30/2020,Water Company,154.53,debit,Utilities,Silver Card
+08/02/2020,Home Depot,5.23,debit,Home Improvement,Checking
+08/03/2020,Payroll,1981.57,credit,Paycheck,Savings
+08/05/2020,Starbucks,37.68,debit,Coffee Shops,Silver Card
+08/07/2020,State Farm,39.07,debit,Auto Insurance,Silver Card
+08/07/2020,Shell,68.96,debit,Gas & Fuel,Platinum Card
+08/10/2020,Amazon Video,14.33,debit,Movies & DVDs,Platinum Card
+08/11/2020,AMC Theaters,103.71,debit,Entertainment,Silver Card
+08/11/2020,Italian Bistro,42.64,debit,Restaurants,Silver Card
+08/11/2020,Starbucks,186.87,debit,Coffee Shops,Checking
+08/11/2020,Peet's Coffee,146.5,debit,Coffee Shops,Platinum Card
+08/14/2020,Safeway,111.3,debit,Groceries,Silver Card
+08/17/2020,Peet's Coffee,73.47,debit,Coffee Shops,Checking
+08/18/2020,Trader Joe's,136.59,debit,Groceries,Platinum Card
+08/21/2020,Payroll,2276.4,credit,Paycheck,Silver Card
+08/24/2020,Italian Bistro,60.59,debit,Restaurants,Silver Card
+08/26/2020,BP,64.81,debit,Gas & Fuel,Checking
+08/27/2020,Thai Restaurant,11.44,debit,Restaurants,Checking
+08/29/2020,Payroll,2743.95,credit,Paycheck,Savings
+09/01/2020,Safeway,83.19,debit,Groceries,Savings
+09/01/2020,Electric Company,7.05,debit,Utilities,Platinum Card
+09/01/2020,Sushi Bar,9.71,debit,Restaurants,Checking
+09/02/2020,Safeway,94.34,debit,Groceries,Checking
+09/04/2020,Home Depot,22.2,debit,Home Improvement,Checking
+09/07/2020,Amazon,175.28,debit,Shopping,Silver Card
+09/08/2020,Comcast,66.72,debit,Internet,Savings
+09/11/2020,Walmart,187.82,debit,Shopping,Savings
+09/11/2020,Subway,37.67,debit,Fast Food,Silver Card
+09/12/2020,Sushi Bar,6.02,debit,Restaurants,Platinum Card
+09/13/2020,AMC Theaters,85.54,debit,Entertainment,Platinum Card
+09/14/2020,Italian Bistro,11.77,debit,Restaurants,Savings
+09/16/2020,Trader Joe's,21.62,debit,Groceries,Checking
+09/16/2020,Comcast,151.76,debit,Internet,Platinum Card
+09/18/2020,AMC Theaters,31.2,debit,Entertainment,Silver Card
+09/19/2020,Trader Joe's,64.08,debit,Groceries,Savings
+09/19/2020,Payroll,1814.8,credit,Paycheck,Savings
+09/22/2020,Walmart,118.54,debit,Shopping,Savings
+09/22/2020,State Farm,158.38,debit,Auto Insurance,Savings
+09/22/2020,Italian Bistro,57.21,debit,Restaurants,Savings
+09/24/2020,T-Mobile,45.27,debit,Mobile Phone,Checking
+09/24/2020,Chipotle,41.91,debit,Fast Food,Silver Card
+09/27/2020,Water Company,31.37,debit,Utilities,Savings
+09/27/2020,State Farm,55.8,debit,Auto Insurance,Checking
+09/30/2020,AMC Theaters,125.3,debit,Entertainment,Savings
+10/03/2020,Netflix,43.95,debit,Entertainment,Silver Card
+10/03/2020,Comcast,83.95,debit,Internet,Checking
+10/04/2020,Sushi Bar,53.51,debit,Restaurants,Silver Card
+10/04/2020,Safeway,65.7,debit,Groceries,Checking
+10/07/2020,Thai Restaurant,53.37,debit,Restaurants,Platinum Card
+10/08/2020,AMC Theaters,101.2,debit,Entertainment,Silver Card
+10/09/2020,T-Mobile,59.98,debit,Mobile Phone,Silver Card
+10/09/2020,Thai Restaurant,25.09,debit,Restaurants,Checking
+10/12/2020,Trader Joe's,136.32,debit,Groceries,Savings
+10/12/2020,AMC Theaters,169.15,debit,Entertainment,Checking
+10/12/2020,Netflix,66.33,debit,Entertainment,Platinum Card
+10/14/2020,Payroll,2425.06,credit,Paycheck,Savings
+10/15/2020,Local Bar,156.16,debit,Alcohol & Bars,Checking
+10/18/2020,Walmart,41.11,debit,Shopping,Savings
+10/19/2020,T-Mobile,123.34,debit,Mobile Phone,Platinum Card
+10/19/2020,AT&T Internet,77.34,debit,Internet,Checking
+10/21/2020,AT&T Internet,84.27,debit,Internet,Savings
+10/22/2020,Home Depot,171.12,debit,Home Improvement,Silver Card
+10/24/2020,Thai Restaurant,56.43,debit,Restaurants,Silver Card
+10/24/2020,Trader Joe's,65.2,debit,Groceries,Savings
+10/26/2020,Peet's Coffee,20.24,debit,Coffee Shops,Platinum Card
+10/27/2020,Walmart,187.92,debit,Shopping,Silver Card
+10/28/2020,Walmart,19.43,debit,Shopping,Checking
+10/29/2020,Trader Joe's,67.45,debit,Groceries,Savings
+10/30/2020,Barbershop,139.34,debit,Haircut,Silver Card
+11/01/2020,Walmart,171.79,debit,Shopping,Savings
+11/02/2020,Thai Restaurant,58.18,debit,Restaurants,Savings
+11/02/2020,Home Depot,24.93,debit,Home Improvement,Platinum Card
+11/04/2020,Walmart,182.53,debit,Shopping,Savings
+11/05/2020,Amazon Video,34.37,debit,Movies & DVDs,Checking
+11/06/2020,Netflix,167.89,debit,Entertainment,Checking
+11/06/2020,AMC Theaters,69.96,debit,Entertainment,Silver Card
+11/07/2020,Starbucks,113.89,debit,Coffee Shops,Checking
+11/09/2020,Electric Company,119.91,debit,Utilities,Checking
+11/09/2020,Italian Bistro,20.45,debit,Restaurants,Checking
+11/12/2020,Walmart,98.61,debit,Shopping,Silver Card
+11/15/2020,AT&T Internet,104.77,debit,Internet,Silver Card
+11/15/2020,Safeway,52.06,debit,Groceries,Savings
+11/15/2020,Thai Restaurant,28.45,debit,Restaurants,Silver Card
+11/16/2020,Direct Deposit,2859.21,credit,Paycheck,Silver Card
+11/19/2020,State Farm,147.22,debit,Auto Insurance,Checking
+11/20/2020,Italian Bistro,23.93,debit,Restaurants,Savings
+11/22/2020,Local Bar,142.35,debit,Alcohol & Bars,Platinum Card
+11/25/2020,Target,109.47,debit,Shopping,Platinum Card
+11/26/2020,Amazon,178.16,debit,Shopping,Silver Card
+11/26/2020,AMC Theaters,132.44,debit,Entertainment,Checking
+11/26/2020,Peet's Coffee,90.18,debit,Coffee Shops,Silver Card
+11/26/2020,Home Depot,47.05,debit,Home Improvement,Savings
+11/26/2020,Local Bar,116.18,debit,Alcohol & Bars,Savings
+11/26/2020,McDonald's,73.82,debit,Fast Food,Savings
+11/26/2020,Peet's Coffee,199.66,debit,Coffee Shops,Silver Card
+11/28/2020,Sushi Bar,16.12,debit,Restaurants,Silver Card
+11/28/2020,AMC Theaters,121.08,debit,Entertainment,Platinum Card
+11/28/2020,Water Company,55.36,debit,Utilities,Checking
+11/30/2020,Comcast,166.14,debit,Internet,Platinum Card
+12/01/2020,Electric Company,119.97,debit,Utilities,Silver Card
+12/03/2020,State Farm,59.6,debit,Auto Insurance,Savings
+12/03/2020,Italian Bistro,12.13,debit,Restaurants,Savings
+12/06/2020,McDonald's,49.02,debit,Fast Food,Silver Card
+12/07/2020,State Farm,57.61,debit,Auto Insurance,Savings
+12/08/2020,Safeway,43.11,debit,Groceries,Checking
+12/11/2020,BP,52.1,debit,Gas & Fuel,Platinum Card
+12/14/2020,Electric Company,62.13,debit,Utilities,Savings
+12/16/2020,Target,161.3,debit,Shopping,Savings
+12/16/2020,State Farm,191.84,debit,Auto Insurance,Silver Card
+12/18/2020,Safeway,51.49,debit,Groceries,Platinum Card
+12/20/2020,Chevron,31.05,debit,Gas & Fuel,Platinum Card
+12/21/2020,Amazon,62.6,debit,Shopping,Platinum Card
+12/22/2020,Shell,80.6,debit,Gas & Fuel,Platinum Card
+12/23/2020,Thai Restaurant,42.61,debit,Restaurants,Savings
+12/24/2020,Comcast,143.34,debit,Internet,Savings
+12/25/2020,Thai Restaurant,15.44,debit,Restaurants,Checking
+12/25/2020,Water Company,172.41,debit,Utilities,Silver Card
+12/25/2020,Sushi Bar,23.38,debit,Restaurants,Checking
+12/25/2020,Electric Company,92.25,debit,Utilities,Savings
+12/25/2020,Comcast,41.03,debit,Internet,Checking
+12/25/2020,Sushi Bar,22.26,debit,Restaurants,Platinum Card
+12/28/2020,Shell,34.0,debit,Gas & Fuel,Silver Card
+12/31/2020,AT&T Internet,193.33,debit,Internet,Savings
+01/02/2021,Whole Foods,118.58,debit,Groceries,Checking
+01/05/2021,Amazon,41.7,debit,Shopping,Checking
+01/06/2021,Chipotle,52.71,debit,Fast Food,Checking
+01/06/2021,Chevron,54.57,debit,Gas & Fuel,Savings
+01/07/2021,Chipotle,19.96,debit,Fast Food,Platinum Card
+01/10/2021,Starbucks,134.64,debit,Coffee Shops,Platinum Card
+01/12/2021,Amazon,150.09,debit,Shopping,Platinum Card
+01/14/2021,AMC Theaters,154.72,debit,Entertainment,Savings
+01/16/2021,Sushi Bar,51.02,debit,Restaurants,Checking
+01/18/2021,Walmart,135.17,debit,Shopping,Silver Card
+01/20/2021,Electric Company,194.04,debit,Utilities,Platinum Card
+01/23/2021,Sushi Bar,53.96,debit,Restaurants,Savings
+01/24/2021,Sushi Bar,68.65,debit,Restaurants,Silver Card
+01/27/2021,Sushi Bar,16.11,debit,Restaurants,Savings
+01/30/2021,Netflix,25.18,debit,Entertainment,Savings
+01/31/2021,AT&T Internet,127.08,debit,Internet,Checking
+02/03/2021,Electric Company,150.59,debit,Utilities,Silver Card
+02/03/2021,Verizon,136.12,debit,Mobile Phone,Silver Card
+02/05/2021,BP,44.8,debit,Gas & Fuel,Platinum Card
+02/08/2021,Chipotle,33.65,debit,Fast Food,Savings
+02/10/2021,Direct Deposit,2341.2,credit,Paycheck,Checking
+02/11/2021,AMC Theaters,68.78,debit,Entertainment,Platinum Card
+02/13/2021,Walmart,109.25,debit,Shopping,Checking
+02/13/2021,Subway,25.16,debit,Fast Food,Platinum Card
+02/15/2021,Direct Deposit,2620.45,credit,Paycheck,Checking
+02/18/2021,Whole Foods,31.07,debit,Groceries,Platinum Card
+02/18/2021,Electric Company,188.12,debit,Utilities,Savings
+02/21/2021,Electric Company,102.29,debit,Utilities,Silver Card
+02/23/2021,Spotify,129.39,debit,Music,Platinum Card
+02/25/2021,Walmart,163.06,debit,Shopping,Silver Card
+02/26/2021,Water Company,183.8,debit,Utilities,Checking
+03/01/2021,Thai Restaurant,18.83,debit,Restaurants,Silver Card
+03/01/2021,Direct Deposit,2514.41,credit,Paycheck,Silver Card
+03/04/2021,Thai Restaurant,46.64,debit,Restaurants,Savings
+03/04/2021,Safeway,135.95,debit,Groceries,Silver Card
+03/06/2021,Amazon,136.55,debit,Shopping,Silver Card
+03/06/2021,Home Depot,157.81,debit,Home Improvement,Savings
+03/09/2021,Electric Company,121.31,debit,Utilities,Silver Card
+03/09/2021,Starbucks,139.35,debit,Coffee Shops,Savings
+03/09/2021,Water Company,92.63,debit,Utilities,Checking
+03/09/2021,Safeway,37.7,debit,Groceries,Platinum Card
+03/11/2021,Trader Joe's,87.94,debit,Groceries,Silver Card
+03/14/2021,Amazon,120.25,debit,Shopping,Checking
+03/17/2021,Target,52.11,debit,Shopping,Savings
+03/18/2021,Walmart,154.66,debit,Shopping,Silver Card
+03/18/2021,Target,88.89,debit,Shopping,Platinum Card
+03/19/2021,Whole Foods,143.7,debit,Groceries,Platinum Card
+03/21/2021,Payroll,2439.37,credit,Paycheck,Platinum Card
+03/24/2021,Netflix,55.11,debit,Entertainment,Silver Card
+03/24/2021,Electric Company,198.55,debit,Utilities,Platinum Card
+03/24/2021,Home Depot,134.28,debit,Home Improvement,Silver Card
+03/26/2021,Local Bar,140.69,debit,Alcohol & Bars,Platinum Card
+03/27/2021,Target,17.11,debit,Shopping,Savings
+03/27/2021,Shell,77.85,debit,Gas & Fuel,Savings
+03/29/2021,Trader Joe's,56.25,debit,Groceries,Savings
+03/30/2021,Amazon,151.61,debit,Shopping,Checking
+04/02/2021,Electric Company,51.17,debit,Utilities,Checking
+04/04/2021,Safeway,28.1,debit,Groceries,Savings
+04/06/2021,Netflix,165.58,debit,Entertainment,Silver Card
+04/09/2021,Spotify,101.58,debit,Music,Savings
+04/12/2021,Whole Foods,89.78,debit,Groceries,Silver Card
+04/12/2021,Netflix,83.26,debit,Entertainment,Checking
+04/12/2021,AT&T Internet,195.87,debit,Internet,Savings
+04/13/2021,State Farm,67.04,debit,Auto Insurance,Platinum Card
+04/13/2021,Starbucks,27.21,debit,Coffee Shops,Savings
+04/16/2021,Verizon,129.05,debit,Mobile Phone,Checking
+04/16/2021,Target,107.87,debit,Shopping,Checking
+04/18/2021,Netflix,46.86,debit,Entertainment,Savings
+04/21/2021,Sushi Bar,77.73,debit,Restaurants,Checking
+04/21/2021,Electric Company,67.04,debit,Utilities,Silver Card
+04/24/2021,Local Bar,31.58,debit,Alcohol & Bars,Checking
+04/24/2021,Home Depot,16.45,debit,Home Improvement,Platinum Card
+04/25/2021,Chipotle,47.61,debit,Fast Food,Checking
+04/26/2021,Whole Foods,124.35,debit,Groceries,Checking
+04/29/2021,Water Company,69.0,debit,Utilities,Silver Card
+05/01/2021,T-Mobile,197.25,debit,Mobile Phone,Silver Card
+05/02/2021,Trader Joe's,54.07,debit,Groceries,Savings
+05/02/2021,Sushi Bar,50.17,debit,Restaurants,Silver Card
+05/02/2021,Starbucks,53.84,debit,Coffee Shops,Platinum Card
+05/03/2021,State Farm,137.58,debit,Auto Insurance,Savings
+05/03/2021,Whole Foods,81.1,debit,Groceries,Checking
+05/03/2021,Thai Restaurant,14.05,debit,Restaurants,Checking
+05/05/2021,Whole Foods,94.18,debit,Groceries,Silver Card
+05/05/2021,Whole Foods,93.37,debit,Groceries,Silver Card
+05/05/2021,Thai Restaurant,43.2,debit,Restaurants,Savings
+05/08/2021,T-Mobile,80.04,debit,Mobile Phone,Platinum Card
+05/09/2021,AT&T Internet,29.51,debit,Internet,Silver Card
+05/12/2021,AMC Theaters,39.83,debit,Entertainment,Platinum Card
+05/14/2021,Safeway,126.99,debit,Groceries,Savings
+05/16/2021,Thai Restaurant,64.31,debit,Restaurants,Checking
+05/18/2021,Shell,31.5,debit,Gas & Fuel,Silver Card
+05/19/2021,Sushi Bar,27.41,debit,Restaurants,Silver Card
+05/20/2021,AT&T Internet,146.74,debit,Internet,Checking
+05/23/2021,Trader Joe's,101.43,debit,Groceries,Checking
+05/26/2021,Safeway,19.97,debit,Groceries,Savings
+05/27/2021,Sushi Bar,60.05,debit,Restaurants,Savings
+05/30/2021,Target,22.99,debit,Shopping,Silver Card
+05/31/2021,Barbershop,62.88,debit,Haircut,Platinum Card
+05/31/2021,Starbucks,139.67,debit,Coffee Shops,Silver Card
+06/02/2021,Direct Deposit,2252.49,credit,Paycheck,Silver Card
+06/05/2021,T-Mobile,144.24,debit,Mobile Phone,Savings
+06/06/2021,Local Bar,14.93,debit,Alcohol & Bars,Savings
+06/09/2021,Amazon,148.69,debit,Shopping,Platinum Card
+06/10/2021,Subway,38.6,debit,Fast Food,Platinum Card
+06/11/2021,Whole Foods,15.67,debit,Groceries,Savings
+06/13/2021,Local Bar,84.3,debit,Alcohol & Bars,Platinum Card
+06/14/2021,Trader Joe's,104.93,debit,Groceries,Savings
+06/17/2021,Netflix,119.28,debit,Entertainment,Savings
+06/19/2021,Electric Company,35.75,debit,Utilities,Silver Card
+06/20/2021,Netflix,147.43,debit,Entertainment,Savings
+06/20/2021,Chipotle,24.88,debit,Fast Food,Checking
+06/23/2021,T-Mobile,43.76,debit,Mobile Phone,Checking
+06/24/2021,BP,94.84,debit,Gas & Fuel,Checking
+06/24/2021,State Farm,135.02,debit,Auto Insurance,Savings
+06/24/2021,McDonald's,5.23,debit,Fast Food,Checking
+06/25/2021,Trader Joe's,138.57,debit,Groceries,Platinum Card
+06/28/2021,BP,47.49,debit,Gas & Fuel,Platinum Card
+06/28/2021,Spotify,80.45,debit,Music,Platinum Card
+07/01/2021,T-Mobile,80.44,debit,Mobile Phone,Savings
+07/02/2021,Spotify,40.28,debit,Music,Silver Card
+07/02/2021,Italian Bistro,32.48,debit,Restaurants,Silver Card
+07/05/2021,AMC Theaters,66.96,debit,Entertainment,Checking
+07/07/2021,Chipotle,37.0,debit,Fast Food,Checking
+07/08/2021,Trader Joe's,103.53,debit,Groceries,Platinum Card
+07/10/2021,Trader Joe's,92.86,debit,Groceries,Checking
+07/13/2021,Electric Company,85.67,debit,Utilities,Checking
+07/16/2021,Spotify,126.0,debit,Music,Platinum Card
+07/18/2021,McDonald's,6.07,debit,Fast Food,Silver Card
+07/18/2021,BP,54.18,debit,Gas & Fuel,Checking
+07/20/2021,Trader Joe's,87.88,debit,Groceries,Silver Card
+07/23/2021,Starbucks,72.52,debit,Coffee Shops,Silver Card
+07/23/2021,Home Depot,73.24,debit,Home Improvement,Platinum Card
+07/24/2021,Safeway,88.31,debit,Groceries,Checking
+07/25/2021,AMC Theaters,55.25,debit,Entertainment,Silver Card
+07/28/2021,AMC Theaters,47.87,debit,Entertainment,Silver Card
+07/29/2021,Netflix,92.18,debit,Entertainment,Checking
+08/01/2021,Direct Deposit,2776.59,credit,Paycheck,Platinum Card
+08/01/2021,State Farm,85.55,debit,Auto Insurance,Silver Card
+08/01/2021,Target,154.81,debit,Shopping,Savings
+08/02/2021,Trader Joe's,142.9,debit,Groceries,Silver Card
+08/05/2021,Shell,46.01,debit,Gas & Fuel,Silver Card
+08/08/2021,T-Mobile,129.4,debit,Mobile Phone,Platinum Card
+08/09/2021,State Farm,178.79,debit,Auto Insurance,Checking
+08/11/2021,Direct Deposit,2704.52,credit,Paycheck,Savings
+08/13/2021,Safeway,22.39,debit,Groceries,Savings
+08/13/2021,Amazon,72.08,debit,Shopping,Checking
+08/15/2021,Barbershop,73.18,debit,Haircut,Checking
+08/15/2021,Target,183.96,debit,Shopping,Savings
+08/18/2021,Target,129.46,debit,Shopping,Platinum Card
+08/19/2021,AMC Theaters,154.5,debit,Entertainment,Silver Card
+08/20/2021,Subway,61.39,debit,Fast Food,Checking
+08/23/2021,Payroll,2840.76,credit,Paycheck,Checking
+08/25/2021,Whole Foods,104.01,debit,Groceries,Platinum Card
+08/28/2021,Verizon,126.47,debit,Mobile Phone,Silver Card
+08/29/2021,Shell,53.87,debit,Gas & Fuel,Silver Card
+09/01/2021,Amazon,35.13,debit,Shopping,Checking
+09/01/2021,State Farm,35.42,debit,Auto Insurance,Savings
+09/04/2021,Safeway,86.82,debit,Groceries,Silver Card
+09/07/2021,Amazon,145.32,debit,Shopping,Checking
+09/09/2021,McDonald's,65.28,debit,Fast Food,Silver Card
+09/12/2021,Netflix,46.89,debit,Entertainment,Savings
+09/13/2021,Shell,99.74,debit,Gas & Fuel,Silver Card
+09/15/2021,Starbucks,148.38,debit,Coffee Shops,Platinum Card
+09/18/2021,Water Company,52.79,debit,Utilities,Silver Card
+09/19/2021,Direct Deposit,2471.0,credit,Paycheck,Silver Card
+09/19/2021,Verizon,71.77,debit,Mobile Phone,Platinum Card
+09/19/2021,Thai Restaurant,33.17,debit,Restaurants,Savings
+09/21/2021,Amazon,72.3,debit,Shopping,Silver Card
+09/21/2021,Sushi Bar,21.34,debit,Restaurants,Platinum Card
+09/23/2021,AMC Theaters,123.15,debit,Entertainment,Silver Card
+09/25/2021,Walmart,139.0,debit,Shopping,Silver Card
+09/28/2021,Italian Bistro,77.31,debit,Restaurants,Platinum Card
+09/28/2021,Whole Foods,84.04,debit,Groceries,Checking
+10/01/2021,Barbershop,46.01,debit,Haircut,Platinum Card
+10/03/2021,Whole Foods,20.43,debit,Groceries,Checking
+10/03/2021,McDonald's,34.08,debit,Fast Food,Silver Card
+10/03/2021,Target,124.14,debit,Shopping,Platinum Card
+10/06/2021,Direct Deposit,2155.36,credit,Paycheck,Checking
+10/08/2021,State Farm,61.1,debit,Auto Insurance,Checking
+10/11/2021,Water Company,60.82,debit,Utilities,Checking
+10/14/2021,Home Depot,22.74,debit,Home Improvement,Silver Card
+10/14/2021,Amazon,56.8,debit,Shopping,Savings
+10/17/2021,Walmart,108.66,debit,Shopping,Checking
+10/17/2021,Walmart,10.14,debit,Shopping,Savings
+10/18/2021,T-Mobile,107.34,debit,Mobile Phone,Checking
+10/18/2021,Walmart,96.8,debit,Shopping,Platinum Card
+10/21/2021,Walmart,65.95,debit,Shopping,Checking
+10/24/2021,State Farm,57.13,debit,Auto Insurance,Savings
+10/25/2021,AT&T Internet,194.11,debit,Internet,Checking
+10/26/2021,Netflix,103.6,debit,Entertainment,Savings
+10/29/2021,Chipotle,22.17,debit,Fast Food,Checking
+11/01/2021,Payroll,2332.96,credit,Paycheck,Silver Card
+11/02/2021,McDonald's,21.41,debit,Fast Food,Savings
+11/05/2021,Water Company,38.73,debit,Utilities,Savings
+11/08/2021,Payroll,2671.78,credit,Paycheck,Silver Card
+11/11/2021,Starbucks,167.39,debit,Coffee Shops,Silver Card
+11/13/2021,Electric Company,174.54,debit,Utilities,Platinum Card
+11/16/2021,Subway,32.18,debit,Fast Food,Platinum Card
+11/17/2021,Spotify,77.26,debit,Music,Silver Card
+11/19/2021,Netflix,183.94,debit,Entertainment,Savings
+11/20/2021,Thai Restaurant,13.37,debit,Restaurants,Silver Card
+11/21/2021,Safeway,39.96,debit,Groceries,Checking
+11/21/2021,Amazon,128.96,debit,Shopping,Silver Card
+11/24/2021,Verizon,26.36,debit,Mobile Phone,Savings
+11/24/2021,Chipotle,73.0,debit,Fast Food,Checking
+11/26/2021,Subway,38.74,debit,Fast Food,Checking
+11/26/2021,Whole Foods,26.34,debit,Groceries,Platinum Card
+11/28/2021,Whole Foods,22.53,debit,Groceries,Savings
+11/30/2021,Trader Joe's,43.77,debit,Groceries,Checking
+12/03/2021,Electric Company,157.75,debit,Utilities,Silver Card
+12/04/2021,Walmart,91.59,debit,Shopping,Platinum Card
+12/07/2021,Walmart,161.41,debit,Shopping,Savings
+12/09/2021,Payroll,2620.72,credit,Paycheck,Savings
+12/10/2021,Amazon,66.93,debit,Shopping,Savings
+12/13/2021,Electric Company,88.98,debit,Utilities,Silver Card
+12/13/2021,Chevron,49.39,debit,Gas & Fuel,Platinum Card
+12/16/2021,Whole Foods,80.6,debit,Groceries,Platinum Card
+12/18/2021,Shell,60.43,debit,Gas & Fuel,Platinum Card
+12/19/2021,Sushi Bar,63.25,debit,Restaurants,Silver Card
+12/19/2021,AMC Theaters,160.45,debit,Entertainment,Platinum Card
+12/21/2021,McDonald's,55.0,debit,Fast Food,Savings
+12/24/2021,Direct Deposit,2399.9,credit,Paycheck,Silver Card
+12/24/2021,Chipotle,9.43,debit,Fast Food,Savings
+12/27/2021,Direct Deposit,1895.17,credit,Paycheck,Checking
+12/30/2021,Whole Foods,47.63,debit,Groceries,Silver Card
+01/01/2022,Direct Deposit,2406.83,credit,Paycheck,Checking
+01/02/2022,Peet's Coffee,55.22,debit,Coffee Shops,Platinum Card
+01/02/2022,Shell,83.92,debit,Gas & Fuel,Checking
+01/02/2022,Local Bar,166.76,debit,Alcohol & Bars,Platinum Card
+01/02/2022,Safeway,129.78,debit,Groceries,Checking
+01/02/2022,Chipotle,46.93,debit,Fast Food,Platinum Card
+01/03/2022,Starbucks,25.26,debit,Coffee Shops,Checking
+01/04/2022,Netflix,193.15,debit,Entertainment,Platinum Card
+01/07/2022,Spotify,164.33,debit,Music,Platinum Card
+01/09/2022,AMC Theaters,158.47,debit,Entertainment,Checking
+01/10/2022,State Farm,92.78,debit,Auto Insurance,Silver Card
+01/10/2022,BP,89.45,debit,Gas & Fuel,Savings
+01/13/2022,Local Bar,11.46,debit,Alcohol & Bars,Silver Card
+01/15/2022,Whole Foods,133.16,debit,Groceries,Savings
+01/17/2022,Trader Joe's,85.24,debit,Groceries,Silver Card
+01/17/2022,Netflix,121.14,debit,Entertainment,Savings
+01/20/2022,Shell,89.83,debit,Gas & Fuel,Platinum Card
+01/22/2022,Shell,95.35,debit,Gas & Fuel,Savings
+01/24/2022,Verizon,137.77,debit,Mobile Phone,Savings
+01/24/2022,Amazon,156.65,debit,Shopping,Silver Card
+01/25/2022,Amazon,185.03,debit,Shopping,Silver Card
+01/26/2022,Water Company,196.81,debit,Utilities,Savings
+01/26/2022,AMC Theaters,107.22,debit,Entertainment,Checking
+01/28/2022,T-Mobile,46.79,debit,Mobile Phone,Savings
+01/30/2022,Chevron,64.99,debit,Gas & Fuel,Silver Card
+01/30/2022,Target,28.27,debit,Shopping,Savings
+01/30/2022,Direct Deposit,2144.13,credit,Paycheck,Platinum Card
+01/30/2022,Walmart,140.51,debit,Shopping,Checking
+01/31/2022,T-Mobile,60.93,debit,Mobile Phone,Platinum Card
+02/01/2022,Walmart,121.7,debit,Shopping,Checking
+02/03/2022,Whole Foods,122.52,debit,Groceries,Platinum Card
+02/05/2022,Barbershop,116.44,debit,Haircut,Silver Card
+02/08/2022,Peet's Coffee,199.17,debit,Coffee Shops,Platinum Card
+02/10/2022,BP,78.92,debit,Gas & Fuel,Checking
+02/12/2022,Starbucks,173.62,debit,Coffee Shops,Platinum Card
+02/12/2022,Electric Company,63.2,debit,Utilities,Savings
+02/13/2022,Italian Bistro,60.15,debit,Restaurants,Checking
+02/16/2022,Chipotle,15.82,debit,Fast Food,Checking
+02/17/2022,Barbershop,56.21,debit,Haircut,Platinum Card
+02/19/2022,BP,78.89,debit,Gas & Fuel,Savings
+02/22/2022,Subway,11.8,debit,Fast Food,Platinum Card
+02/23/2022,Walmart,73.24,debit,Shopping,Checking
+02/24/2022,Shell,52.86,debit,Gas & Fuel,Checking
+02/25/2022,Netflix,47.22,debit,Entertainment,Silver Card
+02/26/2022,State Farm,194.68,debit,Auto Insurance,Savings
+03/01/2022,BP,23.12,debit,Gas & Fuel,Platinum Card
+03/04/2022,AT&T Internet,120.75,debit,Internet,Checking
+03/04/2022,Chevron,70.78,debit,Gas & Fuel,Platinum Card
+03/06/2022,Safeway,126.78,debit,Groceries,Checking
+03/07/2022,Subway,49.8,debit,Fast Food,Checking
+03/08/2022,Home Depot,141.41,debit,Home Improvement,Checking
+03/09/2022,Local Bar,175.82,debit,Alcohol & Bars,Checking
+03/09/2022,Local Bar,60.97,debit,Alcohol & Bars,Platinum Card
+03/10/2022,AT&T Internet,128.68,debit,Internet,Platinum Card
+03/12/2022,Trader Joe's,12.78,debit,Groceries,Platinum Card
+03/15/2022,Barbershop,194.09,debit,Haircut,Silver Card
+03/15/2022,Target,187.65,debit,Shopping,Silver Card
+03/15/2022,Electric Company,104.57,debit,Utilities,Platinum Card
+03/16/2022,Trader Joe's,73.06,debit,Groceries,Silver Card
+03/16/2022,Whole Foods,95.67,debit,Groceries,Savings
+03/19/2022,Italian Bistro,18.53,debit,Restaurants,Platinum Card
+03/22/2022,AT&T Internet,61.4,debit,Internet,Checking
+03/23/2022,Shell,76.17,debit,Gas & Fuel,Checking
+03/23/2022,BP,28.68,debit,Gas & Fuel,Silver Card
+03/26/2022,Safeway,71.45,debit,Groceries,Silver Card
+03/26/2022,Local Bar,128.73,debit,Alcohol & Bars,Checking
+03/26/2022,Spotify,26.3,debit,Music,Platinum Card
+03/26/2022,Direct Deposit,1954.72,credit,Paycheck,Platinum Card
+03/29/2022,Comcast,31.82,debit,Internet,Savings
+03/30/2022,Netflix,181.93,debit,Entertainment,Checking
+04/01/2022,Home Depot,116.82,debit,Home Improvement,Savings
+04/01/2022,Home Depot,13.22,debit,Home Improvement,Savings
+04/03/2022,Spotify,157.93,debit,Music,Platinum Card
+04/05/2022,Water Company,156.96,debit,Utilities,Platinum Card
+04/07/2022,Peet's Coffee,161.94,debit,Coffee Shops,Savings
+04/09/2022,Netflix,164.9,debit,Entertainment,Savings
+04/11/2022,Chipotle,77.91,debit,Fast Food,Silver Card
+04/13/2022,Shell,28.49,debit,Gas & Fuel,Silver Card
+04/14/2022,Italian Bistro,76.29,debit,Restaurants,Silver Card
+04/14/2022,Water Company,130.37,debit,Utilities,Platinum Card
+04/15/2022,AMC Theaters,152.6,debit,Entertainment,Silver Card
+04/15/2022,Electric Company,198.16,debit,Utilities,Platinum Card
+04/15/2022,Target,53.26,debit,Shopping,Silver Card
+04/16/2022,AT&T Internet,91.45,debit,Internet,Savings
+04/16/2022,Spotify,194.99,debit,Music,Checking
+04/18/2022,Water Company,176.3,debit,Utilities,Platinum Card
+04/19/2022,AMC Theaters,146.78,debit,Entertainment,Checking
+04/20/2022,Comcast,87.22,debit,Internet,Platinum Card
+04/22/2022,Amazon,64.18,debit,Shopping,Platinum Card
+04/23/2022,Verizon,150.8,debit,Mobile Phone,Silver Card
+04/26/2022,BP,85.58,debit,Gas & Fuel,Savings
+04/27/2022,Electric Company,26.68,debit,Utilities,Savings
+04/29/2022,Thai Restaurant,10.0,debit,Restaurants,Checking
+04/29/2022,T-Mobile,130.62,debit,Mobile Phone,Checking
+05/01/2022,AMC Theaters,196.86,debit,Entertainment,Silver Card
+05/03/2022,Home Depot,52.49,debit,Home Improvement,Savings
+05/06/2022,Sushi Bar,49.87,debit,Restaurants,Savings
+05/06/2022,Subway,66.03,debit,Fast Food,Checking
+05/08/2022,Thai Restaurant,77.25,debit,Restaurants,Checking
+05/10/2022,Chipotle,26.7,debit,Fast Food,Platinum Card
+05/10/2022,Thai Restaurant,68.15,debit,Restaurants,Platinum Card
+05/12/2022,Thai Restaurant,5.4,debit,Restaurants,Savings
+05/13/2022,Sushi Bar,7.5,debit,Restaurants,Silver Card
+05/16/2022,AT&T Internet,15.4,debit,Internet,Platinum Card
+05/17/2022,Chevron,28.78,debit,Gas & Fuel,Savings
+05/19/2022,Netflix,96.3,debit,Entertainment,Checking
+05/19/2022,Chipotle,57.96,debit,Fast Food,Checking
+05/22/2022,State Farm,123.17,debit,Auto Insurance,Silver Card
+05/23/2022,Payroll,2864.39,credit,Paycheck,Platinum Card
+05/24/2022,Thai Restaurant,14.42,debit,Restaurants,Savings
+05/27/2022,Local Bar,55.14,debit,Alcohol & Bars,Platinum Card
+05/29/2022,Comcast,162.83,debit,Internet,Platinum Card
+06/01/2022,Netflix,147.05,debit,Entertainment,Platinum Card
+06/04/2022,Water Company,119.18,debit,Utilities,Checking
+06/04/2022,T-Mobile,82.44,debit,Mobile Phone,Platinum Card
+06/05/2022,Home Depot,72.19,debit,Home Improvement,Silver Card
+06/07/2022,Trader Joe's,31.09,debit,Groceries,Platinum Card
+06/08/2022,Safeway,44.19,debit,Groceries,Savings
+06/10/2022,Safeway,86.59,debit,Groceries,Savings
+06/10/2022,Peet's Coffee,18.19,debit,Coffee Shops,Platinum Card
+06/10/2022,Netflix,79.87,debit,Entertainment,Platinum Card
+06/10/2022,Thai Restaurant,25.8,debit,Restaurants,Platinum Card
+06/10/2022,Amazon,5.31,debit,Shopping,Platinum Card
+06/10/2022,Italian Bistro,65.13,debit,Restaurants,Checking
+06/12/2022,Safeway,31.84,debit,Groceries,Platinum Card
+06/15/2022,State Farm,82.51,debit,Auto Insurance,Checking
+06/17/2022,Whole Foods,48.23,debit,Groceries,Platinum Card
+06/18/2022,Comcast,35.79,debit,Internet,Silver Card
+06/18/2022,Thai Restaurant,73.63,debit,Restaurants,Platinum Card
+06/21/2022,Comcast,32.33,debit,Internet,Checking
+06/21/2022,Walmart,195.6,debit,Shopping,Platinum Card
+06/22/2022,Chevron,91.6,debit,Gas & Fuel,Savings
+06/23/2022,Amazon,76.03,debit,Shopping,Checking
+06/26/2022,Chevron,99.73,debit,Gas & Fuel,Silver Card
+06/29/2022,Starbucks,107.27,debit,Coffee Shops,Savings
+06/30/2022,Chipotle,75.9,debit,Fast Food,Savings
+07/03/2022,McDonald's,72.86,debit,Fast Food,Checking
+07/06/2022,Trader Joe's,52.8,debit,Groceries,Platinum Card
+07/09/2022,BP,25.29,debit,Gas & Fuel,Savings
+07/11/2022,Thai Restaurant,12.77,debit,Restaurants,Silver Card
+07/14/2022,Trader Joe's,76.14,debit,Groceries,Savings
+07/16/2022,Trader Joe's,28.93,debit,Groceries,Savings
+07/16/2022,Chevron,91.73,debit,Gas & Fuel,Checking
+07/16/2022,Spotify,41.9,debit,Music,Checking
+07/19/2022,Target,143.21,debit,Shopping,Savings
+07/20/2022,Shell,49.41,debit,Gas & Fuel,Platinum Card
+07/20/2022,Whole Foods,108.75,debit,Groceries,Savings
+07/23/2022,Walmart,83.65,debit,Shopping,Platinum Card
+07/23/2022,McDonald's,20.82,debit,Fast Food,Savings
+07/23/2022,Electric Company,30.43,debit,Utilities,Silver Card
+07/24/2022,Water Company,8.35,debit,Utilities,Platinum Card
+07/25/2022,BP,23.08,debit,Gas & Fuel,Silver Card
+07/26/2022,Shell,84.08,debit,Gas & Fuel,Silver Card
+07/28/2022,Comcast,150.71,debit,Internet,Silver Card
+07/29/2022,Trader Joe's,106.9,debit,Groceries,Savings
+08/01/2022,Verizon,194.72,debit,Mobile Phone,Checking
+08/01/2022,Walmart,165.88,debit,Shopping,Checking
+08/01/2022,AT&T Internet,116.64,debit,Internet,Savings
+08/02/2022,Direct Deposit,2629.8,credit,Paycheck,Platinum Card
+08/05/2022,AMC Theaters,48.39,debit,Entertainment,Silver Card
+08/08/2022,Local Bar,149.37,debit,Alcohol & Bars,Checking
+08/08/2022,AMC Theaters,5.23,debit,Entertainment,Silver Card
+08/10/2022,McDonald's,68.49,debit,Fast Food,Silver Card
+08/10/2022,Walmart,77.27,debit,Shopping,Silver Card
+08/11/2022,Subway,44.19,debit,Fast Food,Platinum Card
+08/14/2022,BP,30.22,debit,Gas & Fuel,Silver Card
+08/16/2022,Thai Restaurant,37.83,debit,Restaurants,Platinum Card
+08/17/2022,Direct Deposit,1958.6,credit,Paycheck,Savings
+08/20/2022,Peet's Coffee,9.46,debit,Coffee Shops,Platinum Card
+08/23/2022,Spotify,85.74,debit,Music,Platinum Card
+08/23/2022,Peet's Coffee,189.15,debit,Coffee Shops,Checking
+08/25/2022,Sushi Bar,70.31,debit,Restaurants,Savings
+08/27/2022,Safeway,123.69,debit,Groceries,Silver Card
+08/29/2022,Direct Deposit,2008.22,credit,Paycheck,Silver Card
+08/30/2022,McDonald's,22.61,debit,Fast Food,Silver Card
+08/31/2022,Trader Joe's,40.92,debit,Groceries,Silver Card
+09/01/2022,Italian Bistro,44.0,debit,Restaurants,Silver Card
+09/03/2022,Subway,60.74,debit,Fast Food,Savings
+09/03/2022,Shell,41.21,debit,Gas & Fuel,Platinum Card
+09/03/2022,Electric Company,160.66,debit,Utilities,Savings
+09/03/2022,T-Mobile,42.33,debit,Mobile Phone,Silver Card
+09/03/2022,Thai Restaurant,61.48,debit,Restaurants,Platinum Card
+09/06/2022,Spotify,113.17,debit,Music,Savings
+09/08/2022,Water Company,99.47,debit,Utilities,Checking
+09/08/2022,Direct Deposit,2539.84,credit,Paycheck,Checking
+09/08/2022,Walmart,159.19,debit,Shopping,Silver Card
+09/11/2022,Sushi Bar,69.98,debit,Restaurants,Platinum Card
+09/13/2022,Thai Restaurant,28.39,debit,Restaurants,Silver Card
+09/14/2022,Italian Bistro,55.06,debit,Restaurants,Savings
+09/15/2022,Verizon,180.11,debit,Mobile Phone,Platinum Card
+09/18/2022,Shell,50.74,debit,Gas & Fuel,Silver Card
+09/18/2022,Italian Bistro,32.57,debit,Restaurants,Platinum Card
+09/21/2022,Trader Joe's,78.92,debit,Groceries,Platinum Card
+09/21/2022,Walmart,72.09,debit,Shopping,Platinum Card
+09/22/2022,Subway,30.81,debit,Fast Food,Platinum Card
+09/25/2022,Netflix,6.06,debit,Entertainment,Platinum Card
+09/27/2022,Sushi Bar,69.3,debit,Restaurants,Silver Card
+09/30/2022,Thai Restaurant,68.84,debit,Restaurants,Savings
+10/01/2022,Starbucks,44.51,debit,Coffee Shops,Platinum Card
+10/03/2022,Amazon,106.29,debit,Shopping,Checking
+10/03/2022,AT&T Internet,79.93,debit,Internet,Platinum Card
+10/06/2022,Walmart,22.9,debit,Shopping,Silver Card
+10/08/2022,Shell,56.8,debit,Gas & Fuel,Silver Card
+10/11/2022,Italian Bistro,57.44,debit,Restaurants,Savings
+10/12/2022,Chipotle,20.07,debit,Fast Food,Savings
+10/12/2022,Thai Restaurant,44.72,debit,Restaurants,Platinum Card
+10/14/2022,Home Depot,80.06,debit,Home Improvement,Checking
+10/17/2022,Whole Foods,40.56,debit,Groceries,Silver Card
+10/19/2022,Italian Bistro,9.14,debit,Restaurants,Platinum Card
+10/20/2022,Target,131.3,debit,Shopping,Platinum Card
+10/22/2022,Target,146.89,debit,Shopping,Checking
+10/24/2022,Target,144.92,debit,Shopping,Checking
+10/25/2022,Spotify,13.28,debit,Music,Savings
+10/26/2022,Amazon,40.59,debit,Shopping,Checking
+10/29/2022,Netflix,137.32,debit,Entertainment,Silver Card
+10/29/2022,Whole Foods,43.31,debit,Groceries,Platinum Card
+10/30/2022,Peet's Coffee,48.52,debit,Coffee Shops,Silver Card
+10/31/2022,Sushi Bar,55.29,debit,Restaurants,Platinum Card
+10/31/2022,Chipotle,18.0,debit,Fast Food,Checking
+11/02/2022,Peet's Coffee,160.43,debit,Coffee Shops,Savings
+11/03/2022,Amazon,162.68,debit,Shopping,Platinum Card
+11/04/2022,Chipotle,56.43,debit,Fast Food,Silver Card
+11/07/2022,AMC Theaters,92.56,debit,Entertainment,Savings
+11/09/2022,Trader Joe's,86.4,debit,Groceries,Silver Card
+11/11/2022,McDonald's,7.49,debit,Fast Food,Checking
+11/14/2022,Thai Restaurant,26.47,debit,Restaurants,Checking
+11/17/2022,AMC Theaters,55.08,debit,Entertainment,Checking
+11/19/2022,McDonald's,49.68,debit,Fast Food,Savings
+11/20/2022,Safeway,23.84,debit,Groceries,Platinum Card
+11/20/2022,BP,80.8,debit,Gas & Fuel,Platinum Card
+11/20/2022,Trader Joe's,12.08,debit,Groceries,Savings
+11/22/2022,Target,78.67,debit,Shopping,Checking
+11/25/2022,Shell,83.07,debit,Gas & Fuel,Savings
+11/25/2022,Verizon,48.49,debit,Mobile Phone,Checking
+11/27/2022,Walmart,141.31,debit,Shopping,Checking
+11/27/2022,Trader Joe's,83.85,debit,Groceries,Savings
+11/29/2022,Payroll,2791.74,credit,Paycheck,Platinum Card
+11/29/2022,Home Depot,155.07,debit,Home Improvement,Checking
+12/01/2022,Walmart,76.15,debit,Shopping,Checking
+12/04/2022,Amazon,94.62,debit,Shopping,Checking
+12/05/2022,Safeway,95.75,debit,Groceries,Savings
+12/07/2022,Electric Company,173.65,debit,Utilities,Checking
+12/09/2022,Starbucks,198.25,debit,Coffee Shops,Checking
+12/09/2022,Amazon,19.77,debit,Shopping,Platinum Card
+12/11/2022,McDonald's,14.88,debit,Fast Food,Checking
+12/13/2022,T-Mobile,142.71,debit,Mobile Phone,Platinum Card
+12/15/2022,Starbucks,89.62,debit,Coffee Shops,Silver Card
+12/18/2022,Netflix,138.9,debit,Entertainment,Platinum Card
+12/18/2022,McDonald's,54.99,debit,Fast Food,Checking
+12/18/2022,AMC Theaters,112.79,debit,Entertainment,Savings
+12/21/2022,Thai Restaurant,30.71,debit,Restaurants,Silver Card
+12/21/2022,Chevron,45.63,debit,Gas & Fuel,Savings
+12/21/2022,Sushi Bar,30.15,debit,Restaurants,Platinum Card
+12/23/2022,Chevron,21.81,debit,Gas & Fuel,Silver Card
+12/26/2022,Comcast,118.57,debit,Internet,Checking
+12/29/2022,Thai Restaurant,27.14,debit,Restaurants,Silver Card
+01/01/2023,AMC Theaters,125.31,debit,Entertainment,Platinum Card
+01/01/2023,Trader Joe's,95.25,debit,Groceries,Checking
+01/04/2023,Thai Restaurant,68.21,debit,Restaurants,Savings
+01/04/2023,Target,187.41,debit,Shopping,Silver Card
+01/06/2023,Safeway,74.55,debit,Groceries,Checking
+01/08/2023,Italian Bistro,27.75,debit,Restaurants,Savings
+01/08/2023,Italian Bistro,46.96,debit,Restaurants,Silver Card
+01/11/2023,Local Bar,106.53,debit,Alcohol & Bars,Platinum Card
+01/14/2023,Amazon Video,102.83,debit,Movies & DVDs,Checking
+01/17/2023,Whole Foods,74.44,debit,Groceries,Savings
+01/20/2023,Trader Joe's,143.6,debit,Groceries,Silver Card
+01/21/2023,Whole Foods,137.08,debit,Groceries,Checking
+01/21/2023,Starbucks,96.11,debit,Coffee Shops,Platinum Card
+01/22/2023,Whole Foods,42.98,debit,Groceries,Checking
+01/24/2023,Electric Company,94.81,debit,Utilities,Platinum Card
+01/27/2023,Whole Foods,70.62,debit,Groceries,Silver Card
+01/30/2023,Thai Restaurant,70.63,debit,Restaurants,Savings
+02/02/2023,Safeway,120.63,debit,Groceries,Silver Card
+02/03/2023,Amazon,44.39,debit,Shopping,Checking
+02/06/2023,BP,87.15,debit,Gas & Fuel,Savings
+02/07/2023,T-Mobile,144.05,debit,Mobile Phone,Savings
+02/09/2023,Subway,13.97,debit,Fast Food,Platinum Card
+02/12/2023,Barbershop,97.11,debit,Haircut,Savings
+02/15/2023,BP,33.67,debit,Gas & Fuel,Savings
+02/17/2023,Comcast,132.95,debit,Internet,Checking
+02/19/2023,Trader Joe's,97.53,debit,Groceries,Platinum Card
+02/22/2023,Thai Restaurant,10.47,debit,Restaurants,Checking
+02/22/2023,Trader Joe's,68.8,debit,Groceries,Checking
+02/24/2023,Italian Bistro,5.78,debit,Restaurants,Silver Card
+02/25/2023,AT&T Internet,103.66,debit,Internet,Savings
+02/28/2023,Whole Foods,44.22,debit,Groceries,Savings
+03/03/2023,Whole Foods,51.83,debit,Groceries,Checking
+03/04/2023,Sushi Bar,37.72,debit,Restaurants,Platinum Card
+03/05/2023,Comcast,126.34,debit,Internet,Checking
+03/05/2023,Shell,48.36,debit,Gas & Fuel,Checking
+03/08/2023,Payroll,2611.01,credit,Paycheck,Savings
+03/09/2023,Verizon,33.14,debit,Mobile Phone,Savings
+03/10/2023,Home Depot,111.81,debit,Home Improvement,Platinum Card
+03/10/2023,Water Company,161.88,debit,Utilities,Savings
+03/12/2023,Safeway,141.15,debit,Groceries,Checking
+03/12/2023,Home Depot,55.98,debit,Home Improvement,Checking
+03/13/2023,Walmart,151.04,debit,Shopping,Checking
+03/13/2023,Verizon,31.87,debit,Mobile Phone,Silver Card
+03/13/2023,Amazon Video,159.92,debit,Movies & DVDs,Platinum Card
+03/15/2023,Electric Company,192.62,debit,Utilities,Savings
+03/15/2023,Subway,55.58,debit,Fast Food,Platinum Card
+03/18/2023,Walmart,7.14,debit,Shopping,Platinum Card
+03/18/2023,Italian Bistro,13.99,debit,Restaurants,Silver Card
+03/21/2023,BP,58.36,debit,Gas & Fuel,Silver Card
+03/24/2023,Starbucks,145.66,debit,Coffee Shops,Checking
+03/27/2023,AMC Theaters,122.45,debit,Entertainment,Savings
+03/30/2023,Starbucks,168.85,debit,Coffee Shops,Checking
+03/31/2023,Home Depot,97.29,debit,Home Improvement,Checking
+03/31/2023,Chevron,95.47,debit,Gas & Fuel,Platinum Card
+04/01/2023,Walmart,184.64,debit,Shopping,Silver Card
+04/03/2023,Italian Bistro,46.28,debit,Restaurants,Checking
+04/04/2023,Target,192.17,debit,Shopping,Checking
+04/07/2023,Spotify,157.57,debit,Music,Silver Card
+04/09/2023,Water Company,133.15,debit,Utilities,Savings
+04/10/2023,McDonald's,67.97,debit,Fast Food,Checking
+04/11/2023,Netflix,174.86,debit,Movies & DVDs,Silver Card
+04/13/2023,State Farm,124.25,debit,Auto Insurance,Silver Card
+04/15/2023,Payroll,2338.81,credit,Paycheck,Platinum Card
+04/16/2023,Local Bar,28.04,debit,Alcohol & Bars,Checking
+04/17/2023,Starbucks,155.99,debit,Coffee Shops,Savings
+04/19/2023,Chevron,42.37,debit,Gas & Fuel,Silver Card
+04/20/2023,Spotify,23.17,debit,Music,Silver Card
+04/23/2023,BP,51.49,debit,Gas & Fuel,Savings
+04/26/2023,Barbershop,79.6,debit,Haircut,Silver Card
+04/29/2023,Subway,55.62,debit,Fast Food,Checking
+04/29/2023,Subway,77.09,debit,Fast Food,Silver Card
+04/29/2023,AMC Theaters,16.74,debit,Entertainment,Silver Card
+04/29/2023,Amazon Video,148.53,debit,Movies & DVDs,Savings
+04/29/2023,Safeway,78.72,debit,Groceries,Silver Card
+04/29/2023,T-Mobile,153.1,debit,Mobile Phone,Silver Card
+05/01/2023,Home Depot,33.71,debit,Home Improvement,Silver Card
+05/02/2023,AMC Theaters,144.29,debit,Entertainment,Savings
+05/04/2023,Amazon Video,16.87,debit,Movies & DVDs,Silver Card
+05/07/2023,Sushi Bar,43.96,debit,Restaurants,Checking
+05/07/2023,Italian Bistro,46.47,debit,Restaurants,Platinum Card
+05/10/2023,Chevron,93.66,debit,Gas & Fuel,Savings
+05/12/2023,Thai Restaurant,52.18,debit,Restaurants,Silver Card
+05/12/2023,AT&T Internet,198.52,debit,Internet,Checking
+05/14/2023,Peet's Coffee,117.6,debit,Coffee Shops,Checking
+05/14/2023,AT&T Internet,82.4,debit,Internet,Platinum Card
+05/16/2023,Water Company,127.19,debit,Utilities,Silver Card
+05/18/2023,AMC Theaters,101.19,debit,Entertainment,Savings
+05/19/2023,AMC Theaters,192.46,debit,Entertainment,Platinum Card
+05/22/2023,Thai Restaurant,25.37,debit,Restaurants,Silver Card
+05/22/2023,Target,144.32,debit,Shopping,Savings
+05/24/2023,Chipotle,22.97,debit,Fast Food,Checking
+05/25/2023,Target,32.12,debit,Shopping,Platinum Card
+05/28/2023,Peet's Coffee,39.03,debit,Coffee Shops,Silver Card
+05/31/2023,AMC Theaters,194.77,debit,Entertainment,Checking
+06/01/2023,Water Company,192.12,debit,Utilities,Checking
+06/03/2023,Trader Joe's,117.85,debit,Groceries,Silver Card
+06/03/2023,Amazon,42.75,debit,Shopping,Savings
+06/04/2023,Water Company,178.72,debit,Utilities,Savings
+06/05/2023,Target,130.9,debit,Shopping,Silver Card
+06/06/2023,Chevron,83.87,debit,Gas & Fuel,Savings
+06/06/2023,Shell,65.02,debit,Gas & Fuel,Checking
+06/08/2023,Amazon,162.36,debit,Shopping,Platinum Card
+06/08/2023,Trader Joe's,53.72,debit,Groceries,Checking
+06/10/2023,Thai Restaurant,31.87,debit,Restaurants,Checking
+06/13/2023,McDonald's,58.59,debit,Fast Food,Platinum Card
+06/14/2023,Barbershop,177.83,debit,Haircut,Silver Card
+06/14/2023,Verizon,53.59,debit,Mobile Phone,Savings
+06/17/2023,BP,86.85,debit,Gas & Fuel,Silver Card
+06/19/2023,Netflix,161.81,debit,Entertainment,Savings
+06/19/2023,Target,182.97,debit,Shopping,Checking
+06/20/2023,Subway,24.15,debit,Fast Food,Savings
+06/23/2023,Subway,37.23,debit,Fast Food,Checking
+06/25/2023,Local Bar,78.59,debit,Alcohol & Bars,Platinum Card
+06/26/2023,Trader Joe's,92.1,debit,Groceries,Savings
+06/27/2023,AT&T Internet,190.49,debit,Internet,Savings
+06/29/2023,AT&T Internet,15.2,debit,Internet,Silver Card
+07/02/2023,Chevron,37.05,debit,Gas & Fuel,Silver Card
+07/02/2023,Thai Restaurant,60.22,debit,Restaurants,Savings
+07/02/2023,State Farm,191.74,debit,Auto Insurance,Savings
+07/02/2023,McDonald's,65.34,debit,Fast Food,Platinum Card
+07/03/2023,Electric Company,96.57,debit,Utilities,Checking
+07/03/2023,AT&T Internet,146.58,debit,Internet,Savings
+07/04/2023,Thai Restaurant,27.26,debit,Restaurants,Savings
+07/05/2023,BP,40.87,debit,Gas & Fuel,Savings
+07/06/2023,Thai Restaurant,6.77,debit,Restaurants,Savings
+07/08/2023,Safeway,47.82,debit,Groceries,Savings
+07/10/2023,Electric Company,132.95,debit,Utilities,Savings
+07/11/2023,Target,63.89,debit,Shopping,Checking
+07/11/2023,Whole Foods,44.17,debit,Groceries,Silver Card
+07/12/2023,BP,58.26,debit,Gas & Fuel,Silver Card
+07/12/2023,Target,191.31,debit,Shopping,Checking
+07/12/2023,Whole Foods,70.95,debit,Groceries,Silver Card
+07/12/2023,BP,71.86,debit,Gas & Fuel,Platinum Card
+07/14/2023,BP,58.3,debit,Gas & Fuel,Silver Card
+07/14/2023,Electric Company,67.72,debit,Utilities,Savings
+07/14/2023,BP,50.61,debit,Gas & Fuel,Savings
+07/14/2023,Barbershop,70.54,debit,Haircut,Silver Card
+07/14/2023,Shell,71.09,debit,Gas & Fuel,Checking
+07/17/2023,Peet's Coffee,69.81,debit,Coffee Shops,Silver Card
+07/18/2023,BP,24.18,debit,Gas & Fuel,Platinum Card
+07/21/2023,McDonald's,69.8,debit,Fast Food,Platinum Card
+07/24/2023,Home Depot,45.22,debit,Home Improvement,Checking
+07/27/2023,BP,75.66,debit,Gas & Fuel,Silver Card
+07/27/2023,McDonald's,38.43,debit,Fast Food,Silver Card
+07/27/2023,AMC Theaters,135.95,debit,Entertainment,Savings
+07/29/2023,Comcast,159.59,debit,Internet,Savings
+08/01/2023,T-Mobile,64.5,debit,Mobile Phone,Silver Card
+08/02/2023,Direct Deposit,2727.4,credit,Paycheck,Checking
+08/02/2023,Trader Joe's,32.75,debit,Groceries,Savings
+08/04/2023,Trader Joe's,118.96,debit,Groceries,Silver Card
+08/05/2023,Amazon,108.69,debit,Shopping,Silver Card
+08/05/2023,Direct Deposit,2083.71,credit,Paycheck,Silver Card
+08/05/2023,Electric Company,20.04,debit,Utilities,Platinum Card
+08/07/2023,Italian Bistro,45.72,debit,Restaurants,Savings
+08/10/2023,Direct Deposit,2197.78,credit,Paycheck,Platinum Card
+08/12/2023,AT&T Internet,152.91,debit,Internet,Savings
+08/14/2023,AMC Theaters,165.46,debit,Entertainment,Silver Card
+08/16/2023,Amazon Video,162.28,debit,Movies & DVDs,Checking
+08/16/2023,Whole Foods,56.47,debit,Groceries,Checking
+08/18/2023,State Farm,26.46,debit,Auto Insurance,Platinum Card
+08/21/2023,Barbershop,156.61,debit,Haircut,Platinum Card
+08/23/2023,Chipotle,79.35,debit,Fast Food,Checking
+08/24/2023,Thai Restaurant,63.56,debit,Restaurants,Platinum Card
+08/25/2023,Thai Restaurant,10.32,debit,Restaurants,Savings
+08/25/2023,Whole Foods,22.29,debit,Groceries,Platinum Card
+08/27/2023,Home Depot,16.38,debit,Home Improvement,Checking
+08/29/2023,Peet's Coffee,11.08,debit,Coffee Shops,Platinum Card
+08/31/2023,AMC Theaters,123.01,debit,Entertainment,Savings
+09/02/2023,Whole Foods,68.17,debit,Groceries,Platinum Card
+09/04/2023,Trader Joe's,38.35,debit,Groceries,Platinum Card
+09/06/2023,Electric Company,71.02,debit,Utilities,Savings
+09/07/2023,Shell,75.91,debit,Gas & Fuel,Checking
+09/07/2023,Trader Joe's,47.88,debit,Groceries,Platinum Card
+09/08/2023,Spotify,184.71,debit,Music,Platinum Card
+09/11/2023,Sushi Bar,7.87,debit,Restaurants,Checking
+09/12/2023,AT&T Internet,117.4,debit,Internet,Silver Card
+09/12/2023,Safeway,41.23,debit,Groceries,Savings
+09/13/2023,McDonald's,51.69,debit,Fast Food,Platinum Card
+09/14/2023,Electric Company,195.03,debit,Utilities,Silver Card
+09/17/2023,Home Depot,20.55,debit,Home Improvement,Checking
+09/19/2023,Sushi Bar,70.3,debit,Restaurants,Checking
+09/22/2023,Local Bar,25.23,debit,Alcohol & Bars,Checking
+09/24/2023,Verizon,139.05,debit,Mobile Phone,Silver Card
+09/25/2023,Starbucks,118.15,debit,Coffee Shops,Silver Card
+09/27/2023,Safeway,105.02,debit,Groceries,Savings
+09/29/2023,Chevron,79.89,debit,Gas & Fuel,Checking
+10/02/2023,McDonald's,43.05,debit,Fast Food,Platinum Card
+10/03/2023,Chevron,29.4,debit,Gas & Fuel,Savings
+10/03/2023,Shell,44.63,debit,Gas & Fuel,Silver Card
+10/04/2023,Target,160.87,debit,Shopping,Savings
+10/05/2023,Direct Deposit,1875.21,credit,Paycheck,Savings
+10/05/2023,Amazon,168.58,debit,Shopping,Checking
+10/08/2023,AMC Theaters,184.43,debit,Entertainment,Checking
+10/08/2023,Target,73.77,debit,Shopping,Silver Card
+10/10/2023,Safeway,45.89,debit,Groceries,Platinum Card
+10/12/2023,State Farm,40.03,debit,Auto Insurance,Checking
+10/13/2023,Local Bar,119.79,debit,Alcohol & Bars,Platinum Card
+10/16/2023,Shell,60.87,debit,Gas & Fuel,Checking
+10/19/2023,Starbucks,52.37,debit,Coffee Shops,Savings
+10/19/2023,Sushi Bar,70.04,debit,Restaurants,Checking
+10/22/2023,Whole Foods,70.49,debit,Groceries,Silver Card
+10/23/2023,BP,47.95,debit,Gas & Fuel,Platinum Card
+10/23/2023,State Farm,106.19,debit,Auto Insurance,Savings
+10/23/2023,Subway,18.33,debit,Fast Food,Savings
+10/25/2023,AMC Theaters,24.18,debit,Entertainment,Platinum Card
+10/26/2023,Sushi Bar,74.98,debit,Restaurants,Silver Card
+10/29/2023,Spotify,194.06,debit,Music,Platinum Card
+10/29/2023,Safeway,17.36,debit,Groceries,Silver Card
+10/29/2023,Barbershop,84.71,debit,Haircut,Silver Card
+11/01/2023,Starbucks,186.11,debit,Coffee Shops,Checking
+11/01/2023,AT&T Internet,75.65,debit,Internet,Checking
+11/02/2023,Local Bar,95.31,debit,Alcohol & Bars,Platinum Card
+11/03/2023,AT&T Internet,102.82,debit,Internet,Savings
+11/04/2023,Payroll,2072.06,credit,Paycheck,Savings
+11/06/2023,Shell,77.83,debit,Gas & Fuel,Silver Card
+11/08/2023,McDonald's,64.71,debit,Fast Food,Savings
+11/10/2023,Safeway,71.85,debit,Groceries,Silver Card
+11/12/2023,AMC Theaters,138.25,debit,Entertainment,Savings
+11/14/2023,Amazon,91.75,debit,Shopping,Silver Card
+11/15/2023,Electric Company,168.14,debit,Utilities,Platinum Card
+11/16/2023,Home Depot,163.84,debit,Home Improvement,Silver Card
+11/17/2023,Amazon Video,66.38,debit,Movies & DVDs,Silver Card
+11/19/2023,Target,155.67,debit,Shopping,Silver Card
+11/21/2023,Netflix,42.16,debit,Entertainment,Silver Card
+11/23/2023,Starbucks,39.6,debit,Coffee Shops,Savings
+11/26/2023,Netflix,148.45,debit,Entertainment,Checking
+11/28/2023,Sushi Bar,28.48,debit,Restaurants,Checking
+11/30/2023,Thai Restaurant,29.51,debit,Restaurants,Silver Card
+12/02/2023,Safeway,33.94,debit,Groceries,Checking
+12/03/2023,BP,93.03,debit,Gas & Fuel,Checking
+12/05/2023,Walmart,125.37,debit,Shopping,Savings
+12/05/2023,Shell,89.46,debit,Gas & Fuel,Platinum Card
+12/05/2023,Electric Company,67.36,debit,Utilities,Checking
+12/06/2023,AMC Theaters,33.76,debit,Entertainment,Checking
+12/09/2023,BP,86.71,debit,Gas & Fuel,Platinum Card
+12/09/2023,Amazon,184.1,debit,Shopping,Checking
+12/09/2023,Whole Foods,27.65,debit,Groceries,Silver Card
+12/10/2023,Whole Foods,18.32,debit,Groceries,Silver Card
+12/10/2023,Walmart,178.55,debit,Shopping,Checking
+12/10/2023,Thai Restaurant,73.15,debit,Restaurants,Platinum Card
+12/12/2023,Water Company,145.2,debit,Utilities,Savings
+12/14/2023,Italian Bistro,52.67,debit,Restaurants,Platinum Card
+12/16/2023,Subway,20.75,debit,Fast Food,Savings
+12/16/2023,Electric Company,57.55,debit,Utilities,Platinum Card
+12/18/2023,AT&T Internet,194.25,debit,Internet,Checking
+12/19/2023,BP,95.27,debit,Gas & Fuel,Platinum Card
+12/22/2023,Electric Company,186.94,debit,Utilities,Savings
+12/24/2023,Peet's Coffee,10.99,debit,Coffee Shops,Savings
+12/27/2023,Electric Company,96.39,debit,Utilities,Silver Card
+12/29/2023,Chevron,22.63,debit,Gas & Fuel,Savings
+01/01/2024,Thai Restaurant,20.54,debit,Restaurants,Platinum Card
+01/01/2024,Home Depot,43.06,debit,Home Improvement,Checking
+01/04/2024,Amazon,61.85,debit,Shopping,Checking
+01/04/2024,Netflix,24.61,debit,Entertainment,Savings
+01/05/2024,Chevron,46.15,debit,Gas & Fuel,Checking
+01/08/2024,Shell,33.82,debit,Gas & Fuel,Platinum Card
+01/10/2024,Trader Joe's,141.48,debit,Groceries,Checking
+01/11/2024,Verizon,105.52,debit,Mobile Phone,Silver Card
+01/13/2024,Comcast,134.79,debit,Internet,Silver Card
+01/14/2024,Home Depot,46.05,debit,Home Improvement,Checking
+01/14/2024,Electric Company,85.95,debit,Utilities,Checking
+01/16/2024,Subway,70.41,debit,Fast Food,Checking
+01/17/2024,State Farm,17.59,debit,Auto Insurance,Silver Card
+01/20/2024,Local Bar,179.93,debit,Alcohol & Bars,Platinum Card
+01/23/2024,Amazon Video,48.92,debit,Movies & DVDs,Silver Card
+01/26/2024,State Farm,29.58,debit,Auto Insurance,Platinum Card
+01/27/2024,Walmart,161.9,debit,Shopping,Platinum Card
+01/29/2024,Chevron,85.45,debit,Gas & Fuel,Savings
+01/31/2024,Local Bar,41.69,debit,Alcohol & Bars,Savings
+02/03/2024,T-Mobile,168.06,debit,Mobile Phone,Checking
+02/04/2024,Local Bar,75.24,debit,Alcohol & Bars,Checking
+02/05/2024,Chipotle,11.26,debit,Fast Food,Platinum Card
+02/08/2024,Safeway,31.13,debit,Groceries,Checking
+02/11/2024,Chipotle,34.16,debit,Fast Food,Savings
+02/14/2024,Sushi Bar,15.21,debit,Restaurants,Savings
+02/14/2024,AMC Theaters,113.25,debit,Entertainment,Platinum Card
+02/14/2024,Starbucks,100.26,debit,Coffee Shops,Savings
+02/17/2024,Whole Foods,53.05,debit,Groceries,Checking
+02/18/2024,Safeway,52.39,debit,Groceries,Savings
+02/18/2024,Peet's Coffee,172.71,debit,Coffee Shops,Silver Card
+02/20/2024,Thai Restaurant,70.77,debit,Restaurants,Silver Card
+02/23/2024,BP,81.96,debit,Gas & Fuel,Platinum Card
+02/25/2024,T-Mobile,39.32,debit,Mobile Phone,Silver Card
+02/27/2024,Peet's Coffee,127.28,debit,Coffee Shops,Savings
+02/27/2024,McDonald's,42.92,debit,Fast Food,Checking
+02/29/2024,Trader Joe's,120.82,debit,Groceries,Checking
+02/29/2024,Barbershop,84.63,debit,Haircut,Silver Card
+02/29/2024,Chevron,65.73,debit,Gas & Fuel,Platinum Card
+03/01/2024,State Farm,69.35,debit,Auto Insurance,Platinum Card
+03/02/2024,Water Company,83.38,debit,Utilities,Checking
+03/02/2024,Chevron,34.85,debit,Gas & Fuel,Checking
+03/04/2024,AT&T Internet,165.69,debit,Internet,Savings
+03/06/2024,Shell,29.56,debit,Gas & Fuel,Platinum Card
+03/06/2024,Peet's Coffee,195.63,debit,Coffee Shops,Platinum Card
+03/08/2024,AMC Theaters,152.08,debit,Entertainment,Platinum Card
+03/10/2024,Electric Company,6.54,debit,Utilities,Savings
+03/12/2024,Verizon,175.91,debit,Mobile Phone,Savings
+03/13/2024,Verizon,141.68,debit,Mobile Phone,Platinum Card
+03/15/2024,Home Depot,65.71,debit,Home Improvement,Checking
+03/18/2024,Amazon Video,24.98,debit,Movies & DVDs,Silver Card
+03/21/2024,Shell,27.79,debit,Gas & Fuel,Savings
+03/21/2024,Local Bar,190.53,debit,Alcohol & Bars,Silver Card
+03/24/2024,Thai Restaurant,39.55,debit,Restaurants,Checking
+03/26/2024,Subway,8.28,debit,Fast Food,Platinum Card
+03/27/2024,Sushi Bar,18.53,debit,Restaurants,Savings
+03/30/2024,Amazon,165.31,debit,Shopping,Savings
+03/31/2024,Netflix,162.14,debit,Entertainment,Platinum Card
+04/02/2024,Shell,44.55,debit,Gas & Fuel,Silver Card
+04/04/2024,Safeway,19.94,debit,Groceries,Silver Card
+04/06/2024,McDonald's,52.48,debit,Fast Food,Checking
+04/09/2024,Starbucks,23.12,debit,Coffee Shops,Silver Card
+04/11/2024,Home Depot,75.6,debit,Home Improvement,Savings
+04/12/2024,Electric Company,153.96,debit,Utilities,Silver Card
+04/14/2024,State Farm,82.17,debit,Auto Insurance,Platinum Card
+04/14/2024,Amazon,50.68,debit,Shopping,Silver Card
+04/17/2024,State Farm,35.91,debit,Auto Insurance,Savings
+04/17/2024,Spotify,147.59,debit,Music,Savings
+04/18/2024,Direct Deposit,2344.07,credit,Paycheck,Silver Card
+04/19/2024,AT&T Internet,34.35,debit,Internet,Checking
+04/21/2024,Electric Company,19.87,debit,Utilities,Checking
+04/22/2024,Home Depot,83.78,debit,Home Improvement,Silver Card
+04/24/2024,Italian Bistro,15.95,debit,Restaurants,Platinum Card
+04/25/2024,Target,93.91,debit,Shopping,Silver Card
+04/25/2024,Local Bar,26.28,debit,Alcohol & Bars,Checking
+04/26/2024,Chipotle,54.7,debit,Fast Food,Savings
+04/29/2024,T-Mobile,161.58,debit,Mobile Phone,Silver Card
+05/02/2024,Thai Restaurant,51.82,debit,Restaurants,Platinum Card
+05/05/2024,Chevron,44.87,debit,Gas & Fuel,Checking
+05/07/2024,Payroll,1812.07,credit,Paycheck,Savings
+05/09/2024,AMC Theaters,47.91,debit,Entertainment,Silver Card
+05/12/2024,McDonald's,18.23,debit,Fast Food,Platinum Card
+05/15/2024,AT&T Internet,12.67,debit,Internet,Checking
+05/16/2024,Starbucks,52.03,debit,Coffee Shops,Checking
+05/16/2024,Thai Restaurant,33.99,debit,Restaurants,Silver Card
+05/16/2024,Trader Joe's,42.12,debit,Groceries,Silver Card
+05/17/2024,Sushi Bar,68.7,debit,Restaurants,Silver Card
+05/19/2024,BP,20.73,debit,Gas & Fuel,Silver Card
+05/19/2024,Comcast,188.51,debit,Internet,Silver Card
+05/19/2024,BP,74.74,debit,Gas & Fuel,Silver Card
+05/22/2024,Water Company,51.7,debit,Utilities,Platinum Card
+05/22/2024,Safeway,140.18,debit,Groceries,Platinum Card
+05/22/2024,T-Mobile,5.81,debit,Mobile Phone,Platinum Card
+05/25/2024,Shell,65.97,debit,Gas & Fuel,Savings
+05/25/2024,Shell,51.52,debit,Gas & Fuel,Savings
+05/26/2024,Italian Bistro,7.8,debit,Restaurants,Savings
+05/26/2024,Home Depot,179.21,debit,Home Improvement,Platinum Card
+05/29/2024,Thai Restaurant,62.49,debit,Restaurants,Platinum Card
+05/31/2024,Netflix,84.08,debit,Movies & DVDs,Platinum Card
+06/02/2024,Whole Foods,21.82,debit,Groceries,Platinum Card
+06/02/2024,AT&T Internet,65.29,debit,Internet,Platinum Card
+06/04/2024,Sushi Bar,29.4,debit,Restaurants,Silver Card
+06/04/2024,Starbucks,47.16,debit,Coffee Shops,Platinum Card
+06/06/2024,Netflix,157.44,debit,Entertainment,Silver Card
+06/09/2024,Italian Bistro,62.38,debit,Restaurants,Checking
+06/10/2024,Trader Joe's,46.78,debit,Groceries,Platinum Card
+06/10/2024,Electric Company,190.87,debit,Utilities,Platinum Card
+06/10/2024,Water Company,74.53,debit,Utilities,Platinum Card
+06/10/2024,Trader Joe's,109.17,debit,Groceries,Checking
+06/12/2024,Payroll,2822.15,credit,Paycheck,Silver Card
+06/14/2024,Amazon,154.95,debit,Shopping,Platinum Card
+06/16/2024,Starbucks,162.64,debit,Coffee Shops,Savings
+06/17/2024,Italian Bistro,12.95,debit,Restaurants,Platinum Card
+06/20/2024,AT&T Internet,186.58,debit,Internet,Savings
+06/20/2024,T-Mobile,129.66,debit,Mobile Phone,Silver Card
+06/21/2024,Amazon Video,57.51,debit,Movies & DVDs,Silver Card
+06/22/2024,Italian Bistro,74.07,debit,Restaurants,Checking
+06/23/2024,BP,28.26,debit,Gas & Fuel,Platinum Card
+06/23/2024,Direct Deposit,2036.62,credit,Paycheck,Platinum Card
+06/24/2024,Walmart,159.62,debit,Shopping,Silver Card
+06/24/2024,Italian Bistro,28.96,debit,Restaurants,Silver Card
+06/24/2024,Trader Joe's,31.1,debit,Groceries,Platinum Card
+06/27/2024,Chevron,54.05,debit,Gas & Fuel,Silver Card
+06/28/2024,Direct Deposit,1831.87,credit,Paycheck,Silver Card
+06/29/2024,Target,151.66,debit,Shopping,Checking
+06/29/2024,Local Bar,57.0,debit,Alcohol & Bars,Savings
+07/01/2024,Walmart,180.02,debit,Shopping,Platinum Card
+07/04/2024,AT&T Internet,87.45,debit,Internet,Checking
+07/04/2024,McDonald's,12.08,debit,Fast Food,Platinum Card
+07/06/2024,Payroll,2662.75,credit,Paycheck,Checking
+07/06/2024,Shell,85.72,debit,Gas & Fuel,Checking
+07/08/2024,Spotify,36.51,debit,Music,Savings
+07/11/2024,Comcast,148.48,debit,Internet,Silver Card
+07/14/2024,Target,103.31,debit,Shopping,Platinum Card
+07/14/2024,Home Depot,81.83,debit,Home Improvement,Checking
+07/15/2024,Spotify,51.85,debit,Music,Savings
+07/16/2024,AMC Theaters,150.24,debit,Entertainment,Silver Card
+07/18/2024,Shell,40.28,debit,Gas & Fuel,Checking
+07/20/2024,BP,50.7,debit,Gas & Fuel,Checking
+07/20/2024,AT&T Internet,47.24,debit,Internet,Platinum Card
+07/20/2024,Verizon,11.87,debit,Mobile Phone,Savings
+07/20/2024,Whole Foods,37.19,debit,Groceries,Platinum Card
+07/22/2024,McDonald's,20.0,debit,Fast Food,Silver Card
+07/23/2024,Chipotle,39.49,debit,Fast Food,Checking
+07/26/2024,Sushi Bar,20.1,debit,Restaurants,Checking
+07/28/2024,Electric Company,12.96,debit,Utilities,Checking
+07/29/2024,Thai Restaurant,10.95,debit,Restaurants,Checking
+07/31/2024,Thai Restaurant,44.38,debit,Restaurants,Platinum Card
+07/31/2024,Verizon,9.31,debit,Mobile Phone,Checking
+07/31/2024,Trader Joe's,48.49,debit,Groceries,Checking
+08/03/2024,Thai Restaurant,7.76,debit,Restaurants,Platinum Card
+08/03/2024,Starbucks,103.2,debit,Coffee Shops,Checking
+08/04/2024,Netflix,175.27,debit,Entertainment,Platinum Card
+08/06/2024,Chipotle,28.67,debit,Fast Food,Silver Card
+08/08/2024,Sushi Bar,37.81,debit,Restaurants,Platinum Card
+08/08/2024,Walmart,99.88,debit,Shopping,Savings
+08/09/2024,Home Depot,137.59,debit,Home Improvement,Platinum Card
+08/09/2024,State Farm,85.03,debit,Auto Insurance,Checking
+08/10/2024,Water Company,115.1,debit,Utilities,Checking
+08/12/2024,Subway,10.49,debit,Fast Food,Platinum Card
+08/14/2024,Barbershop,159.08,debit,Haircut,Savings
+08/16/2024,Home Depot,182.77,debit,Home Improvement,Silver Card
+08/19/2024,Amazon,87.4,debit,Shopping,Silver Card
+08/21/2024,BP,87.34,debit,Gas & Fuel,Platinum Card
+08/24/2024,Chevron,69.58,debit,Gas & Fuel,Platinum Card
+08/25/2024,Local Bar,129.22,debit,Alcohol & Bars,Silver Card
+08/28/2024,Electric Company,137.0,debit,Utilities,Checking
+08/28/2024,Electric Company,70.17,debit,Utilities,Checking
+08/31/2024,Subway,12.38,debit,Fast Food,Platinum Card
+09/03/2024,Trader Joe's,15.57,debit,Groceries,Checking
+09/03/2024,Safeway,33.55,debit,Groceries,Checking
+09/03/2024,Target,74.74,debit,Shopping,Savings
+09/04/2024,Water Company,159.63,debit,Utilities,Platinum Card
+09/04/2024,Chipotle,7.79,debit,Fast Food,Savings
+09/05/2024,Safeway,105.94,debit,Groceries,Silver Card
+09/05/2024,Walmart,121.28,debit,Shopping,Savings
+09/08/2024,Target,145.6,debit,Shopping,Platinum Card
+09/10/2024,AT&T Internet,173.89,debit,Internet,Savings
+09/13/2024,Safeway,55.58,debit,Groceries,Checking
+09/14/2024,Netflix,190.15,debit,Movies & DVDs,Savings
+09/16/2024,Target,81.11,debit,Shopping,Savings
+09/16/2024,Sushi Bar,13.08,debit,Restaurants,Platinum Card
+09/16/2024,Starbucks,143.48,debit,Coffee Shops,Savings
+09/18/2024,Sushi Bar,42.4,debit,Restaurants,Platinum Card
+09/18/2024,Barbershop,26.71,debit,Haircut,Checking
+09/18/2024,Barbershop,44.44,debit,Haircut,Savings
+09/21/2024,State Farm,51.36,debit,Auto Insurance,Platinum Card
+09/22/2024,Chevron,90.18,debit,Gas & Fuel,Silver Card
+09/22/2024,Local Bar,148.97,debit,Alcohol & Bars,Silver Card
+09/24/2024,T-Mobile,30.87,debit,Mobile Phone,Savings
+09/26/2024,Sushi Bar,38.31,debit,Restaurants,Silver Card
+09/26/2024,Spotify,122.71,debit,Music,Platinum Card
+09/28/2024,Whole Foods,138.22,debit,Groceries,Silver Card
+09/28/2024,Walmart,38.16,debit,Shopping,Silver Card
+09/29/2024,Amazon Video,92.94,debit,Movies & DVDs,Checking
+10/02/2024,AT&T Internet,194.97,debit,Internet,Savings
+10/03/2024,State Farm,168.49,debit,Auto Insurance,Platinum Card
+10/03/2024,Italian Bistro,40.82,debit,Restaurants,Savings
+10/06/2024,Home Depot,141.42,debit,Home Improvement,Checking
+10/06/2024,Thai Restaurant,60.91,debit,Restaurants,Checking
+10/06/2024,Target,133.13,debit,Shopping,Platinum Card
+10/07/2024,Amazon,32.26,debit,Shopping,Platinum Card
+10/08/2024,Barbershop,6.55,debit,Haircut,Checking
+10/08/2024,Netflix,135.93,debit,Entertainment,Savings
+10/09/2024,BP,23.0,debit,Gas & Fuel,Platinum Card
+10/10/2024,Netflix,18.78,debit,Entertainment,Platinum Card
+10/11/2024,McDonald's,58.26,debit,Fast Food,Silver Card
+10/14/2024,Sushi Bar,22.25,debit,Restaurants,Checking
+10/15/2024,Netflix,119.26,debit,Entertainment,Savings
+10/15/2024,BP,39.27,debit,Gas & Fuel,Checking
+10/16/2024,Spotify,105.45,debit,Music,Savings
+10/17/2024,Safeway,56.15,debit,Groceries,Checking
+10/20/2024,Target,195.44,debit,Shopping,Checking
+10/20/2024,Netflix,118.84,debit,Entertainment,Silver Card
+10/21/2024,T-Mobile,49.41,debit,Mobile Phone,Checking
+10/23/2024,State Farm,99.19,debit,Auto Insurance,Savings
+10/25/2024,Direct Deposit,2009.34,credit,Paycheck,Checking
+10/27/2024,Comcast,132.94,debit,Internet,Silver Card
+10/28/2024,Chipotle,11.36,debit,Fast Food,Checking
+10/28/2024,Water Company,76.37,debit,Utilities,Silver Card
+10/30/2024,Shell,23.38,debit,Gas & Fuel,Platinum Card
+11/02/2024,Peet's Coffee,84.81,debit,Coffee Shops,Checking
+11/03/2024,Whole Foods,66.97,debit,Groceries,Platinum Card
+11/06/2024,Subway,34.02,debit,Fast Food,Platinum Card
+11/06/2024,Peet's Coffee,127.57,debit,Coffee Shops,Silver Card
+11/07/2024,BP,84.82,debit,Gas & Fuel,Savings
+11/07/2024,Netflix,28.72,debit,Entertainment,Savings
+11/08/2024,Local Bar,141.19,debit,Alcohol & Bars,Platinum Card
+11/11/2024,Trader Joe's,30.46,debit,Groceries,Silver Card
+11/14/2024,Chevron,49.58,debit,Gas & Fuel,Savings
+11/14/2024,Verizon,103.1,debit,Mobile Phone,Savings
+11/15/2024,Sushi Bar,40.35,debit,Restaurants,Silver Card
+11/16/2024,Home Depot,165.03,debit,Home Improvement,Checking
+11/18/2024,Netflix,123.73,debit,Entertainment,Silver Card
+11/20/2024,Netflix,108.24,debit,Entertainment,Platinum Card
+11/21/2024,Home Depot,151.34,debit,Home Improvement,Savings
+11/24/2024,Thai Restaurant,49.53,debit,Restaurants,Savings
+11/25/2024,Chipotle,64.16,debit,Fast Food,Savings
+11/27/2024,Whole Foods,84.42,debit,Groceries,Savings
+11/29/2024,Water Company,5.19,debit,Utilities,Savings
+12/02/2024,Italian Bistro,16.44,debit,Restaurants,Checking
+12/04/2024,Amazon,99.29,debit,Shopping,Savings
+12/05/2024,Sushi Bar,15.34,debit,Restaurants,Silver Card
+12/07/2024,T-Mobile,177.98,debit,Mobile Phone,Platinum Card
+12/08/2024,Safeway,139.54,debit,Groceries,Platinum Card
+12/11/2024,Trader Joe's,103.6,debit,Groceries,Checking
+12/11/2024,McDonald's,34.3,debit,Fast Food,Checking
+12/12/2024,Walmart,191.43,debit,Shopping,Platinum Card
+12/15/2024,Netflix,21.77,debit,Entertainment,Platinum Card
+12/15/2024,Trader Joe's,23.24,debit,Groceries,Savings
+12/16/2024,Thai Restaurant,46.52,debit,Restaurants,Checking
+12/18/2024,Local Bar,30.7,debit,Alcohol & Bars,Silver Card
+12/18/2024,Trader Joe's,50.46,debit,Groceries,Checking
+12/21/2024,Safeway,92.75,debit,Groceries,Silver Card
+12/21/2024,Whole Foods,74.34,debit,Groceries,Silver Card
+12/22/2024,Netflix,149.4,debit,Entertainment,Silver Card
+12/24/2024,Shell,75.18,debit,Gas & Fuel,Silver Card
+12/25/2024,Walmart,32.03,debit,Shopping,Savings
+12/26/2024,Direct Deposit,2198.22,credit,Paycheck,Silver Card
+12/28/2024,Walmart,60.88,debit,Shopping,Savings
+12/30/2024,Safeway,119.63,debit,Groceries,Savings
+01/01/2025,AMC Theaters,171.56,debit,Entertainment,Savings
+01/01/2025,Sushi Bar,45.39,debit,Restaurants,Silver Card
+01/01/2025,Subway,65.97,debit,Fast Food,Savings
+01/04/2025,Amazon,56.59,debit,Shopping,Platinum Card
+01/06/2025,Netflix,28.9,debit,Entertainment,Checking
+01/07/2025,McDonald's,28.95,debit,Fast Food,Savings
+01/10/2025,Whole Foods,11.6,debit,Groceries,Platinum Card
+01/10/2025,Trader Joe's,72.58,debit,Groceries,Savings
+01/11/2025,Trader Joe's,127.84,debit,Groceries,Silver Card
+01/14/2025,Walmart,33.13,debit,Shopping,Platinum Card
+01/14/2025,Comcast,98.25,debit,Internet,Savings
+01/15/2025,Local Bar,55.4,debit,Alcohol & Bars,Checking
+01/18/2025,Local Bar,82.66,debit,Alcohol & Bars,Checking
+01/18/2025,Sushi Bar,41.01,debit,Restaurants,Checking
+01/21/2025,Netflix,127.32,debit,Entertainment,Platinum Card
+01/21/2025,Netflix,91.61,debit,Entertainment,Silver Card
+01/22/2025,AMC Theaters,101.86,debit,Entertainment,Savings
+01/25/2025,Italian Bistro,72.06,debit,Restaurants,Platinum Card
+01/28/2025,T-Mobile,29.69,debit,Mobile Phone,Savings
+01/29/2025,Target,86.37,debit,Shopping,Silver Card
+02/01/2025,Thai Restaurant,20.64,debit,Restaurants,Savings
+02/03/2025,Chevron,51.79,debit,Gas & Fuel,Checking
+02/05/2025,Spotify,192.21,debit,Music,Savings
+02/05/2025,Peet's Coffee,151.35,debit,Coffee Shops,Platinum Card
+02/05/2025,Safeway,119.03,debit,Groceries,Savings
+02/05/2025,Walmart,132.41,debit,Shopping,Platinum Card
+02/07/2025,Chevron,73.11,debit,Gas & Fuel,Silver Card
+02/07/2025,Walmart,81.14,debit,Shopping,Checking
+02/08/2025,Water Company,189.69,debit,Utilities,Checking
+02/08/2025,Netflix,6.93,debit,Entertainment,Platinum Card
+02/11/2025,Chevron,36.75,debit,Gas & Fuel,Platinum Card
+02/12/2025,Chipotle,15.64,debit,Fast Food,Checking
+02/15/2025,Electric Company,51.03,debit,Utilities,Silver Card
+02/17/2025,AT&T Internet,48.28,debit,Internet,Silver Card
+02/19/2025,Safeway,145.65,debit,Groceries,Platinum Card
+02/21/2025,Trader Joe's,145.04,debit,Groceries,Platinum Card
+02/23/2025,Chipotle,18.15,debit,Fast Food,Silver Card
+02/25/2025,Starbucks,138.03,debit,Coffee Shops,Platinum Card
+02/27/2025,Netflix,162.87,debit,Movies & DVDs,Silver Card
+02/28/2025,Chipotle,26.01,debit,Fast Food,Platinum Card
+03/03/2025,Local Bar,158.62,debit,Alcohol & Bars,Silver Card
+03/04/2025,Trader Joe's,33.13,debit,Groceries,Platinum Card
+03/04/2025,Sushi Bar,6.56,debit,Restaurants,Platinum Card
+03/07/2025,Barbershop,171.02,debit,Haircut,Platinum Card
+03/10/2025,State Farm,26.01,debit,Auto Insurance,Silver Card
+03/10/2025,Target,78.56,debit,Shopping,Platinum Card
+03/10/2025,Subway,28.86,debit,Fast Food,Savings
+03/13/2025,Home Depot,24.56,debit,Home Improvement,Silver Card
+03/13/2025,Subway,65.01,debit,Fast Food,Silver Card
+03/13/2025,Peet's Coffee,152.35,debit,Coffee Shops,Checking
+03/16/2025,Target,54.46,debit,Shopping,Checking
+03/17/2025,Whole Foods,79.73,debit,Groceries,Checking
+03/20/2025,Chevron,88.12,debit,Gas & Fuel,Platinum Card
+03/22/2025,Whole Foods,43.52,debit,Groceries,Platinum Card
+03/25/2025,Direct Deposit,1850.89,credit,Paycheck,Checking
+03/27/2025,Subway,59.41,debit,Fast Food,Savings
+03/28/2025,Electric Company,162.65,debit,Utilities,Silver Card
+03/28/2025,Netflix,169.43,debit,Entertainment,Platinum Card
+03/28/2025,Direct Deposit,2078.08,credit,Paycheck,Checking
+03/31/2025,Italian Bistro,70.2,debit,Restaurants,Silver Card
+04/01/2025,Peet's Coffee,180.34,debit,Coffee Shops,Checking
+04/02/2025,Peet's Coffee,108.75,debit,Coffee Shops,Savings
+04/02/2025,Italian Bistro,36.5,debit,Restaurants,Platinum Card
+04/02/2025,Spotify,126.52,debit,Music,Savings
+04/03/2025,Italian Bistro,24.51,debit,Restaurants,Checking
+04/03/2025,Home Depot,28.41,debit,Home Improvement,Silver Card
+04/06/2025,AMC Theaters,8.96,debit,Entertainment,Silver Card
+04/06/2025,Amazon,145.77,debit,Shopping,Checking
+04/07/2025,Trader Joe's,90.68,debit,Groceries,Silver Card
+04/07/2025,Chevron,98.56,debit,Gas & Fuel,Checking
+04/08/2025,Home Depot,184.07,debit,Home Improvement,Silver Card
+04/10/2025,AMC Theaters,22.85,debit,Entertainment,Silver Card
+04/13/2025,Trader Joe's,61.98,debit,Groceries,Savings
+04/14/2025,Whole Foods,14.02,debit,Groceries,Savings
+04/15/2025,Subway,48.32,debit,Fast Food,Platinum Card
+04/16/2025,Comcast,170.93,debit,Internet,Platinum Card
+04/17/2025,Chevron,67.85,debit,Gas & Fuel,Platinum Card
+04/19/2025,Water Company,10.87,debit,Utilities,Savings
+04/22/2025,Peet's Coffee,169.85,debit,Coffee Shops,Savings
+04/22/2025,Thai Restaurant,78.34,debit,Restaurants,Platinum Card
+04/25/2025,Comcast,65.71,debit,Internet,Savings
+04/27/2025,Chipotle,13.85,debit,Fast Food,Savings
+04/27/2025,Verizon,28.8,debit,Mobile Phone,Platinum Card
+04/28/2025,Trader Joe's,110.2,debit,Groceries,Silver Card
+04/28/2025,Electric Company,115.62,debit,Utilities,Platinum Card
+04/29/2025,Trader Joe's,138.64,debit,Groceries,Savings
+05/02/2025,BP,40.93,debit,Gas & Fuel,Savings
+05/03/2025,Netflix,11.97,debit,Entertainment,Silver Card
+05/03/2025,AMC Theaters,32.6,debit,Entertainment,Silver Card
+05/06/2025,Barbershop,73.14,debit,Haircut,Checking
+05/06/2025,Chevron,60.55,debit,Gas & Fuel,Checking
+05/08/2025,Safeway,100.51,debit,Groceries,Silver Card
+05/11/2025,Comcast,138.43,debit,Internet,Platinum Card
+05/11/2025,Direct Deposit,1963.68,credit,Paycheck,Checking
+05/11/2025,Verizon,75.94,debit,Mobile Phone,Silver Card
+05/13/2025,T-Mobile,184.1,debit,Mobile Phone,Silver Card
+05/15/2025,Trader Joe's,146.06,debit,Groceries,Savings
+05/15/2025,Direct Deposit,2842.8,credit,Paycheck,Checking
+05/16/2025,Shell,52.35,debit,Gas & Fuel,Platinum Card
+05/16/2025,BP,42.1,debit,Gas & Fuel,Platinum Card
+05/17/2025,AMC Theaters,123.98,debit,Entertainment,Silver Card
+05/18/2025,Subway,19.44,debit,Fast Food,Savings
+05/20/2025,Walmart,59.63,debit,Shopping,Savings
+05/22/2025,Thai Restaurant,70.49,debit,Restaurants,Savings
+05/22/2025,McDonald's,25.55,debit,Fast Food,Savings
+05/25/2025,Payroll,2959.61,credit,Paycheck,Platinum Card
+05/27/2025,Spotify,35.64,debit,Music,Silver Card
+05/27/2025,Subway,18.67,debit,Fast Food,Savings
+05/30/2025,Whole Foods,85.65,debit,Groceries,Platinum Card
+06/01/2025,Safeway,100.48,debit,Groceries,Savings
+06/03/2025,McDonald's,40.97,debit,Fast Food,Silver Card
+06/04/2025,Sushi Bar,19.16,debit,Restaurants,Silver Card
+06/07/2025,Home Depot,94.98,debit,Home Improvement,Savings
+06/10/2025,Sushi Bar,45.56,debit,Restaurants,Silver Card
+06/11/2025,Italian Bistro,37.37,debit,Restaurants,Silver Card
+06/12/2025,Chevron,47.95,debit,Gas & Fuel,Platinum Card
+06/13/2025,Safeway,68.9,debit,Groceries,Savings
+06/16/2025,Netflix,192.59,debit,Movies & DVDs,Platinum Card
+06/18/2025,Shell,94.17,debit,Gas & Fuel,Savings
+06/20/2025,Barbershop,51.81,debit,Haircut,Silver Card
+06/22/2025,Water Company,19.07,debit,Utilities,Platinum Card
+06/22/2025,Netflix,86.89,debit,Entertainment,Platinum Card
+06/25/2025,Subway,26.34,debit,Fast Food,Silver Card
+06/25/2025,Home Depot,11.77,debit,Home Improvement,Platinum Card
+06/28/2025,BP,44.9,debit,Gas & Fuel,Silver Card
+06/29/2025,Amazon,149.08,debit,Shopping,Savings
+06/30/2025,Shell,87.66,debit,Gas & Fuel,Savings
+07/03/2025,Safeway,40.56,debit,Groceries,Platinum Card
+07/05/2025,Verizon,185.63,debit,Mobile Phone,Platinum Card
+07/06/2025,AT&T Internet,113.5,debit,Internet,Silver Card
+07/09/2025,Trader Joe's,103.34,debit,Groceries,Silver Card
+07/10/2025,State Farm,74.99,debit,Auto Insurance,Silver Card
+07/10/2025,Verizon,10.38,debit,Mobile Phone,Savings
+07/11/2025,Electric Company,46.66,debit,Utilities,Checking
+07/13/2025,Subway,13.82,debit,Fast Food,Savings
+07/15/2025,BP,57.81,debit,Gas & Fuel,Silver Card
+07/17/2025,Italian Bistro,68.81,debit,Restaurants,Checking
+07/17/2025,Local Bar,40.99,debit,Alcohol & Bars,Savings
+07/17/2025,Whole Foods,40.45,debit,Groceries,Savings
+07/19/2025,Amazon,175.54,debit,Shopping,Platinum Card
+07/21/2025,BP,73.57,debit,Gas & Fuel,Silver Card
+07/23/2025,Spotify,59.12,debit,Music,Savings
+07/26/2025,AMC Theaters,120.36,debit,Entertainment,Checking
+07/26/2025,Barbershop,11.58,debit,Haircut,Checking
+07/27/2025,Direct Deposit,2249.41,credit,Paycheck,Silver Card
+07/28/2025,State Farm,156.33,debit,Auto Insurance,Savings
+07/30/2025,Netflix,104.71,debit,Entertainment,Platinum Card
+08/01/2025,AMC Theaters,139.61,debit,Entertainment,Checking
+08/03/2025,Walmart,97.18,debit,Shopping,Silver Card
+08/04/2025,Target,194.74,debit,Shopping,Platinum Card
+08/05/2025,AMC Theaters,111.1,debit,Entertainment,Savings
+08/07/2025,Subway,66.58,debit,Fast Food,Silver Card
+08/09/2025,Water Company,106.45,debit,Utilities,Checking
+08/10/2025,Peet's Coffee,78.07,debit,Coffee Shops,Platinum Card
+08/11/2025,AT&T Internet,38.43,debit,Internet,Checking
+08/11/2025,Thai Restaurant,55.51,debit,Restaurants,Silver Card
+08/12/2025,Netflix,122.98,debit,Movies & DVDs,Checking
+08/13/2025,Target,160.15,debit,Shopping,Silver Card
+08/14/2025,Peet's Coffee,52.5,debit,Coffee Shops,Platinum Card
+08/14/2025,State Farm,53.36,debit,Auto Insurance,Platinum Card
+08/14/2025,Sushi Bar,63.8,debit,Restaurants,Checking
+08/16/2025,Amazon Video,160.88,debit,Movies & DVDs,Platinum Card
+08/18/2025,Trader Joe's,46.04,debit,Groceries,Platinum Card
+08/21/2025,Thai Restaurant,44.95,debit,Restaurants,Savings
+08/21/2025,Safeway,15.47,debit,Groceries,Checking
+08/23/2025,Sushi Bar,75.2,debit,Restaurants,Silver Card
+08/23/2025,Sushi Bar,65.45,debit,Restaurants,Checking
+08/25/2025,Whole Foods,65.78,debit,Groceries,Platinum Card
+08/26/2025,Barbershop,138.26,debit,Haircut,Platinum Card
+08/28/2025,Netflix,31.64,debit,Entertainment,Platinum Card
+08/30/2025,Water Company,182.25,debit,Utilities,Checking
+09/01/2025,Water Company,132.1,debit,Utilities,Silver Card
+09/01/2025,Peet's Coffee,125.05,debit,Coffee Shops,Silver Card
+09/04/2025,Peet's Coffee,18.41,debit,Coffee Shops,Savings
+09/04/2025,Direct Deposit,2138.53,credit,Paycheck,Silver Card
+09/06/2025,Trader Joe's,120.73,debit,Groceries,Silver Card
+09/08/2025,T-Mobile,138.26,debit,Mobile Phone,Silver Card
+09/09/2025,Thai Restaurant,9.47,debit,Restaurants,Checking
+09/12/2025,Whole Foods,134.73,debit,Groceries,Platinum Card
+09/13/2025,McDonald's,23.56,debit,Fast Food,Platinum Card
+09/16/2025,Amazon Video,101.98,debit,Movies & DVDs,Checking
+09/19/2025,Italian Bistro,29.61,debit,Restaurants,Silver Card
+09/21/2025,Shell,60.61,debit,Gas & Fuel,Platinum Card
+09/22/2025,McDonald's,50.41,debit,Fast Food,Checking
+09/23/2025,Sushi Bar,63.83,debit,Restaurants,Savings
+09/25/2025,Amazon Video,24.56,debit,Movies & DVDs,Savings
+09/26/2025,AT&T Internet,62.38,debit,Internet,Savings
+09/27/2025,Thai Restaurant,53.13,debit,Restaurants,Checking
+09/29/2025,Thai Restaurant,41.47,debit,Restaurants,Silver Card
+10/01/2025,Home Depot,17.95,debit,Home Improvement,Checking
+10/02/2025,Electric Company,120.44,debit,Utilities,Platinum Card
+10/03/2025,Peet's Coffee,122.09,debit,Coffee Shops,Checking
+10/05/2025,Home Depot,125.21,debit,Home Improvement,Silver Card
+10/08/2025,Payroll,2401.67,credit,Paycheck,Platinum Card
+10/08/2025,AMC Theaters,82.96,debit,Entertainment,Platinum Card
+10/08/2025,Netflix,193.35,debit,Entertainment,Silver Card
+10/10/2025,Chipotle,53.97,debit,Fast Food,Checking
+10/10/2025,Whole Foods,67.94,debit,Groceries,Savings
+10/12/2025,Water Company,137.14,debit,Utilities,Checking
+10/15/2025,Chipotle,14.63,debit,Fast Food,Platinum Card
+10/16/2025,AT&T Internet,52.01,debit,Internet,Savings
+10/17/2025,Thai Restaurant,24.02,debit,Restaurants,Savings
+10/19/2025,Walmart,49.33,debit,Shopping,Silver Card
+10/19/2025,Direct Deposit,2407.96,credit,Paycheck,Platinum Card
+10/19/2025,Whole Foods,147.34,debit,Groceries,Platinum Card
+10/21/2025,Whole Foods,100.94,debit,Groceries,Checking
+10/24/2025,Whole Foods,137.54,debit,Groceries,Savings
+10/24/2025,State Farm,108.72,debit,Auto Insurance,Savings
+10/24/2025,Water Company,119.82,debit,Utilities,Platinum Card
+10/25/2025,Trader Joe's,59.81,debit,Groceries,Platinum Card
+10/27/2025,Safeway,115.04,debit,Groceries,Savings
+10/29/2025,Walmart,158.88,debit,Shopping,Savings
+10/31/2025,McDonald's,16.61,debit,Fast Food,Savings
+11/03/2025,Subway,34.18,debit,Fast Food,Platinum Card
+11/04/2025,Spotify,168.33,debit,Music,Silver Card
+11/07/2025,Trader Joe's,95.5,debit,Groceries,Platinum Card
+11/09/2025,Sushi Bar,29.51,debit,Restaurants,Savings
+11/11/2025,Whole Foods,97.37,debit,Groceries,Checking
+11/11/2025,Netflix,127.76,debit,Entertainment,Checking
+11/11/2025,Payroll,2714.99,credit,Paycheck,Silver Card
+11/12/2025,Sushi Bar,22.1,debit,Restaurants,Savings
+11/15/2025,Barbershop,98.18,debit,Haircut,Savings
+11/17/2025,Direct Deposit,2840.64,credit,Paycheck,Checking
+11/18/2025,McDonald's,73.29,debit,Fast Food,Checking
+11/20/2025,Netflix,166.86,debit,Entertainment,Checking
+11/23/2025,Spotify,23.06,debit,Music,Savings
+11/25/2025,Water Company,62.04,debit,Utilities,Platinum Card
+11/27/2025,Local Bar,99.15,debit,Alcohol & Bars,Checking
+11/29/2025,Target,13.5,debit,Shopping,Platinum Card
+12/01/2025,Starbucks,11.38,debit,Coffee Shops,Silver Card
+12/04/2025,Chipotle,48.86,debit,Fast Food,Savings
+12/07/2025,Payroll,2467.42,credit,Paycheck,Checking
+12/08/2025,Peet's Coffee,90.68,debit,Coffee Shops,Savings
+12/09/2025,Chipotle,8.28,debit,Fast Food,Savings
+12/09/2025,Electric Company,88.13,debit,Utilities,Silver Card
+12/11/2025,Home Depot,9.78,debit,Home Improvement,Checking
+12/13/2025,Comcast,32.04,debit,Internet,Checking
+12/14/2025,AMC Theaters,29.62,debit,Entertainment,Checking
+12/16/2025,Target,150.09,debit,Shopping,Silver Card
+12/17/2025,Walmart,175.86,debit,Shopping,Checking
+12/17/2025,Barbershop,113.74,debit,Haircut,Checking
+12/17/2025,Trader Joe's,58.99,debit,Groceries,Checking
+12/20/2025,Water Company,70.18,debit,Utilities,Checking
+12/22/2025,Netflix,126.79,debit,Entertainment,Savings
+12/22/2025,Shell,86.1,debit,Gas & Fuel,Silver Card
+12/25/2025,Sushi Bar,20.79,debit,Restaurants,Savings
+12/28/2025,AT&T Internet,187.87,debit,Internet,Checking
+12/29/2025,Amazon Video,110.59,debit,Movies & DVDs,Checking
+12/30/2025,Walmart,196.43,debit,Shopping,Platinum Card
+12/30/2025,Starbucks,103.27,debit,Coffee Shops,Platinum Card
+12/30/2025,Thai Restaurant,78.15,debit,Restaurants,Silver Card
+12/30/2025,Amazon,76.43,debit,Shopping,Savings
+12/30/2025,AT&T Internet,135.21,debit,Internet,Checking
+12/30/2025,Whole Foods,67.86,debit,Groceries,Silver Card
+01/01/2026,Comcast,145.15,debit,Internet,Checking
+01/01/2026,Shell,46.46,debit,Gas & Fuel,Silver Card
+01/01/2026,Whole Foods,136.55,debit,Groceries,Savings
+01/01/2026,Subway,69.76,debit,Fast Food,Silver Card
+01/03/2026,Chevron,86.94,debit,Gas & Fuel,Checking
+01/05/2026,Target,99.02,debit,Shopping,Savings
+01/05/2026,State Farm,119.16,debit,Auto Insurance,Checking
+01/05/2026,Netflix,171.51,debit,Entertainment,Platinum Card
+01/06/2026,Safeway,87.54,debit,Groceries,Platinum Card
+01/08/2026,Chevron,71.2,debit,Gas & Fuel,Savings
+01/08/2026,Starbucks,83.04,debit,Coffee Shops,Savings
+01/09/2026,Safeway,46.72,debit,Groceries,Silver Card
+01/10/2026,Subway,41.64,debit,Fast Food,Platinum Card
+01/13/2026,Chipotle,72.22,debit,Fast Food,Platinum Card
+01/14/2026,AMC Theaters,88.31,debit,Entertainment,Silver Card
+01/17/2026,Shell,32.17,debit,Gas & Fuel,Checking
+01/19/2026,Water Company,29.55,debit,Utilities,Savings
+01/20/2026,Home Depot,192.87,debit,Home Improvement,Silver Card
+01/20/2026,Italian Bistro,72.19,debit,Restaurants,Checking
+01/21/2026,Sushi Bar,26.19,debit,Restaurants,Savings
