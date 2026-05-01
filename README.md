@@ -33,10 +33,6 @@ The goal was to build a machine learning model that predicts the category of a f
 - Add real-time transaction tracking
 - Expand to deep learning models
 
-## Demo Video
-This demo showcases how the model predicts transaction categories and visualizes spending patterns using a small depth decision tree.
-
-👉 https://youtu.be/9Ew_9R7gBqU
 
 ## Author
 Samantha Sandoval  
